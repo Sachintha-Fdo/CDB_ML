@@ -1,0 +1,15 @@
+PRODUCT_NAME,Sub_purpose_code_based_on_risk,CRIB_SCORE,TOTAL INCOME,Percentage_of_Total_Installments_to_Total_Current_Balance_slabs,Percentage_of_Total_Current_Balance_to_Total_Amount_Granted_Limit_slabs,Percentage_of_Total_Arrears_Amount_to_Total_Amount_Granted_Limit_slabs,LEASE_TENOR_INCLUDING_HP,CUSTOMER AGE,Exp,YOM,Predicted Cluster,Timestamp
+Three Wheeler-Lease-Registered,Low_risk_sub_purpose_code,60-80,100000-120000,less than 2 percentage,between 50 - 100 percentage,between 1 - 5 percentage,60.0,55.0,0.6,2013.0,Red,2024-08-29 08:47:19
+Three Wheeler-Lease-Registered,Low_risk_sub_purpose_code,60-80,100000-120000,less than 2 percentage,between 50 - 100 percentage,between 1 - 5 percentage,60.0,55.0,0.6,2013.0,Red,2024-08-29 08:47:30
+Three Wheeler-Lease-Registered,Low_risk_sub_purpose_code,Above 80,100000-120000,less than 2 percentage,between 50 - 100 percentage,between 1 - 5 percentage,60.0,55.0,0.6,2013.0,Red,2024-08-29 08:47:34
+Three Wheeler-Lease-Registered,Low_risk_sub_purpose_code,Above 80,100000-120000,less than 2 percentage,between 50 - 100 percentage,between 1 - 5 percentage,60.0,55.0,0.6,2013.0,Red,2024-08-29 08:47:35
+Three Wheeler-Lease-Registered,Low_risk_sub_purpose_code,60-80,100000-120000,less than 2 percentage,between 50 - 100 percentage,between 1 - 5 percentage,60.0,55.0,0.6,2013.0,Red,2024-08-29 08:47:41
+Three Wheeler-Lease-Registered,Low_risk_sub_purpose_code,60-80,100000-120000,above 10 percentage,between 50 - 100 percentage,between 1 - 5 percentage,60.0,55.0,0.6,2013.0,Red,2024-08-29 08:47:53
+Three Wheeler-Lease-Registered,Low_risk_sub_purpose_code,60-80,100000-120000,above 10 percentage,Missing,between 1 - 5 percentage,60.0,55.0,0.6,2013.0,Red,2024-08-29 08:47:57
+Three Wheeler-Lease-Registered,Low_risk_sub_purpose_code,60-80,100000-120000,above 10 percentage,Missing,Missing,60.0,55.0,0.6,2013.0,Green,2024-08-29 08:48:01
+Three Wheeler-Lease-Registered,Low_risk_sub_purpose_code,60-80,100000-120000,above 10 percentage,Missing,less than 1 percentage,60.0,55.0,0.6,2013.0,Green,2024-08-29 08:48:05
+Three Wheeler-Lease-Registered,Low_risk_sub_purpose_code,60-80,100000-120000,above 10 percentage,Missing,between 5 - 10 percentage,60.0,55.0,0.6,2013.0,Green,2024-08-29 08:48:09
+Three Wheeler-Lease-Registered,Low_risk_sub_purpose_code,60-80,100000-120000,above 10 percentage,Missing,above 15 percentage,60.0,55.0,0.6,2013.0,Green,2024-08-29 08:48:12
+Three Wheeler-Lease-Registered,Low_risk_sub_purpose_code,60-80,100000-120000,above 10 percentage,Missing,between 1 - 5 percentage,60.0,55.0,0.6,2013.0,Red,2024-08-29 08:48:17
+Three Wheeler-Lease-Registered,Low_risk_sub_purpose_code,60-80,100000-120000,above 10 percentage,Missing,between 10 - 15 percentage,60.0,55.0,0.6,2013.0,Green,2024-08-29 08:48:25
+Three Wheeler-Lease-Registered,Low_risk_sub_purpose_code,60-80,100000-120000,above 10 percentage,Missing,between 1 - 5 percentage,60.0,55.0,0.6,2013.0,Red,2024-08-29 08:48:37

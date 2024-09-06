@@ -1,0 +1,1063 @@
+Mask No,PRODUCT_NAME,LEASE_TENOR_INCLUDING_HP_cluster,LEASE_TENOR_INCLUDING_HP,TOTAL INCOME_NUM,TOTAL INCOME,VEHICLE_AGE,YOM,CUSTOMER AGE,Exp,Sub_purpose_code_based_on_risk,CRIB_SCORE,Percentage_of_Total_Current_Balance_to_Total_Amount_Granted_Limit_slabs,Percentage_of_Total_Arrears_Amount_to_Total_Amount_Granted_Limit_slabs,Percentage_of_Total_Installments_to_Total_Current_Balance_slabs,Cluster
+8,Three Wheeler-Lease-Registered,60+,61,150000,120000+,10,2014,20,0.857306349,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+9,CASH IN HAND,60+,61,120000,120000+,9,2015,48,0.827375652,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,between 2- 5 percentage,Green
+15,CASH IN HAND,60+,73,65000,60000-80000,8,2016,35,0.61197545,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+21,CASH IN HAND,60+,61,150000,120000+,8,2016,49,0.594879829,Low_risk_sub_purpose_code,below 0,between 50 - 100 percentage,above 15 percentage,between 5- 10 percentage,Green
+43,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,16,2008,28,0.622068387,Low_risk_sub_purpose_code,0-20,between 150 - 200 percentage,less than 1 percentage,between 2- 5 percentage,Green
+79,CASH IN HAND,48-60,49,100000,100000-120000,17,2007,49,0.279225546,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+111,CASH IN HAND,24-36,31,75000,60000-80000,9,2015,31,0.301456522,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+113,CASH IN HAND,48-60,49,50000,40000-60000,18,2006,57,0.590058571,Medium_risk_sub_purpose_code,below 0,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+142,Three Wheeler-Lease-Registered,48-60,49,62000,60000-80000,7,2017,48,0.831176667,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+153,CASH IN HAND,36-48,37,50000,40000-60000,18,2006,22,0.447475714,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+157,Three Wheeler-Lease-Registered,24-36,25,70000,60000-80000,16,2008,43,0.273578065,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+167,CASH IN HAND,60+,61,40000,40000-60000,12,2012,26,0.655846829,Low_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+173,CASH IN HAND,36-48,37,50000,40000-60000,12,2012,27,0.688406607,Medium_risk_sub_purpose_code,60-80,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+221,CASH IN HAND,24-36,29,80000,80000-100000,10,2014,46,0.448570636,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+228,CASH IN HAND,48-60,49,200000,120000+,12,2012,46,0.542507673,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+230,Three Wheeler-Lease-Registered,36-48,37,80000,80000-100000,18,2006,25,0.598257143,Low_risk_sub_purpose_code,0-20,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+239,CASH IN HAND,60+,61,80000,80000-100000,10,2014,27,0.60476266,Low_risk_sub_purpose_code,below 0,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Red
+253,Three Wheeler-Lease-Registered,36-48,37,200000,120000+,9,2015,39,0.637273913,Medium_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+254,CASH IN HAND,60+,61,150000,120000+,13,2011,55,0.672456845,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+267,Three Wheeler-Lease-Registered,36-48,37,200000,120000+,5,2019,32,0.834778819,Medium_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+275,Three Wheeler-Lease-Registered,60+,61,65000,60000-80000,12,2012,40,0.828392453,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,less than 2 percentage,Red
+285,CASH IN HAND,60+,61,50000,40000-60000,13,2011,20,0.640549161,High_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+291,CASH IN HAND,48-60,49,120000,120000+,14,2010,33,0.66783669,Medium_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+318,CASH IN HAND,36-48,37,100000,100000-120000,10,2014,30,0.625279799,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+328,CASH IN HAND,48-60,49,55000,40000-60000,18,2006,38,0.829271429,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Red
+351,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,14,2010,48,0.742696828,Medium_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,less than 2 percentage,Green
+354,Three Wheeler-Lease-Registered,24-36,25,130000,120000+,17,2007,19,0.377150924,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+366,Three Wheeler-Lease-Registered,24-36,24,60000,60000-80000,16,2008,26,0.282377778,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+388,Three Wheeler-Lease-Registered,36-48,37,110000,100000-120000,13,2011,27,0.485793032,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+389,Three Wheeler-Lease-Registered,60+,61,120000,120000+,8,2016,38,0.619246958,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+399,Three Wheeler-Lease-Registered,48-60,49,35000,< 40000,13,2011,26,0.408263226,Medium_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+421,Three Wheeler-Lease-Registered,60+,61,70000,60000-80000,14,2010,38,0.812388414,Medium_risk_sub_purpose_code,0-20,between 100 - 150 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+424,CASH IN HAND,24-36,31,165000,120000+,11,2013,40,0.750837143,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+444,Three Wheeler-Lease-Registered,48-60,49,110000,100000-120000,12,2012,24,0.576042264,Low_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Red
+451,Three Wheeler-Lease-Registered,60+,61,90000,80000-100000,13,2011,43,0.393848774,Low_risk_sub_purpose_code,below 0,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Red
+464,Three Wheeler-Lease-Registered,24-36,25,200000,120000+,12,2012,30,0.527789686,Low_risk_sub_purpose_code,0-20,less than 50 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+474,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,9,2015,22,0.764891304,Low_risk_sub_purpose_code,Missing,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Red
+480,CASH IN HAND,48-60,49,90000,80000-100000,9,2015,39,0.736575652,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+487,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,12,2012,50,0.695890314,High_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+496,Three Wheeler-Lease-Registered,24-36,25,50000,40000-60000,17,2007,28,0.213696807,Low_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+504,CASH IN HAND,48-60,49,180000,120000+,10,2014,58,0.427468208,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+510,CASH IN HAND,36-48,37,80000,80000-100000,13,2011,24,0.833854968,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+518,Three Wheeler-Lease-Registered,60+,61,48000,40000-60000,16,2008,34,0.801669677,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Red
+525,Three Wheeler-Lease-Registered,24-36,31,130000,120000+,9,2015,32,0.631274783,Low_risk_sub_purpose_code,60-80,less than 50 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+548,CASH IN HAND,60+,61,200000,120000+,16,2008,40,0.737793548,Low_risk_sub_purpose_code,60-80,less than 50 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+555,CASH IN HAND,48-60,55,70000,60000-80000,10,2014,42,0.812844393,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,above 15 percentage,Missing,Red
+567,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,17,2007,39,0.765741176,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+569,CASH IN HAND,36-48,43,100000,100000-120000,10,2014,29,0.673050636,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+597,CASH IN HAND,36-48,37,75000,60000-80000,8,2016,29,0.23875667,Low_risk_sub_purpose_code,Missing,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Red
+617,Three Wheeler-Lease-Registered,< 24,13,35000,< 40000,13,2011,43,0.113390452,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+626,CASH IN HAND,< 24,13,65000,60000-80000,8,2016,35,0.167696085,Low_risk_sub_purpose_code,40-60,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+638,Three Wheeler-Lease-Registered,36-48,37,80000,80000-100000,9,2015,29,0.634568696,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+676,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,9,2015,47,0.614347826,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+678,Three Wheeler-Lease-Registered,36-48,37,50000,40000-60000,14,2010,53,0.346576552,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+704,Three Wheeler-Lease-Registered,60+,73,8000,< 40000,13,2011,36,0.931203902,Medium_risk_sub_purpose_code,20-40,between 150 - 200 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+715,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,11,2013,29,0.731381905,Low_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,above 10 percentage,Red
+717,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,19,2005,19,0.622168224,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+720,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,12,2012,57,0.827376101,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+738,CASH IN HAND,36-48,37,80000,80000-100000,14,2010,43,0.522200268,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,Missing,Green
+742,Three Wheeler-Lease-Registered,24-36,31,60000,60000-80000,18,2006,27,0.839941429,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+750,CASH IN HAND,60+,61,70000,60000-80000,18,2006,28,0.826874286,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,above 15 percentage,between 5- 10 percentage,Red
+757,Three Wheeler-Lease-Registered,24-36,30,120000,120000+,9,2015,21,0.332695652,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+760,CASH IN HAND,36-48,37,60000,60000-80000,11,2013,20,0.597278095,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,Missing,Red
+774,CASH IN HAND,24-36,25,200000,120000+,13,2011,30,0.547154581,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,above 15 percentage,between 5- 10 percentage,Green
+788,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,17,2007,55,0.828392605,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+792,Three Wheeler-Lease-Registered,48-60,49,110000,100000-120000,14,2010,25,0.624482207,Low_risk_sub_purpose_code,20-40,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Green
+805,CASH IN HAND,48-60,49,60000,60000-80000,11,2013,31,0.392703846,Medium_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+813,Three Wheeler-Lease-Registered,60+,61,150000,120000+,13,2011,41,0.820643172,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+817,Three Wheeler-Lease-Registered,60+,61,150000,120000+,15,2009,32,0.740933731,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+868,CASH IN HAND,48-60,49,85000,80000-100000,15,2009,52,0.831176642,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+870,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,13,2011,44,0.828906323,Medium_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+889,Three Wheeler-Lease-Registered,48-60,49,250000,120000+,12,2012,59,0.717373659,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+890,CASH IN HAND,60+,61,80000,80000-100000,13,2011,27,0.769916903,Medium_risk_sub_purpose_code,below 0,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+924,CASH IN HAND,60+,61,75000,60000-80000,11,2013,39,0.779082857,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+926,CASH IN HAND,36-48,37,75000,60000-80000,17,2007,54,0.536328067,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+936,Three Wheeler-Lease-Registered,36-48,37,60000,60000-80000,14,2010,23,0.311918345,Low_risk_sub_purpose_code,60-80,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+941,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,9,2015,45,0.795580444,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+946,Three Wheeler-Lease-Registered,60+,61,150000,120000+,9,2015,52,0.827881739,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+949,CASH IN HAND,24-36,25,100000,100000-120000,17,2007,36,0.353136134,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+974,CASH IN HAND,60+,61,100000,100000-120000,13,2011,29,0.407691355,Medium_risk_sub_purpose_code,below 0,between 50 - 100 percentage,above 15 percentage,between 2- 5 percentage,Red
+985,CASH IN HAND,36-48,43,100000,100000-120000,16,2008,47,0.550798806,Medium_risk_sub_purpose_code,40-60,between 100 - 150 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+987,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,8,2016,29,0.568749206,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+989,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,9,2015,47,0.674491304,Medium_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+998,Three Wheeler-Lease-Registered,60+,61,110000,100000-120000,16,2008,22,0.622459355,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+1004,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,14,2010,19,0.62316347,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+1024,CASH IN HAND,60+,61,60000,60000-80000,11,2013,40,0.494015238,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,above 15 percentage,between 5- 10 percentage,Red
+1028,Three Wheeler-Lease-Registered,36-48,37,70000,60000-80000,10,2014,24,0.484138728,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+1029,Three Wheeler-Lease-Registered,36-48,37,85000,80000-100000,18,2006,36,0.637273913,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+1051,CASH IN HAND,36-48,37,75000,60000-80000,9,2015,38,0.273117391,Low_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+1058,Three Wheeler-Lease-Registered,36-48,37,80000,80000-100000,9,2015,60,0.372183099,Low_risk_sub_purpose_code,Missing,less than 50 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+1064,CASH IN HAND,48-60,49,5000,< 40000,11,2013,50,0.672148571,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+1085,CASH IN HAND,60+,73,60000,60000-80000,13,2011,55,0.444958968,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+1089,CASH IN HAND,24-36,25,500000,120000+,9,2015,57,0.349564348,Medium_risk_sub_purpose_code,0-20,between 50 - 100 percentage,between 10 - 15 percentage,between 2- 5 percentage,Green
+1100,CASH IN HAND,48-60,49,100000,100000-120000,15,2009,36,0.727047164,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+1102,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,8,2016,36,0.580454603,Medium_risk_sub_purpose_code,60-80,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+1103,Three Wheeler-Lease-Registered,48-60,49,70000,60000-80000,16,2008,28,0.72840129,Medium_risk_sub_purpose_code,below 0,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+1108,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,9,2015,61,0.488640376,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+1126,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,12,2012,55,0.50419122,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+1143,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,14,2010,22,0.827376107,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+1155,CASH IN HAND,24-36,31,100000,100000-120000,12,2012,30,0.514869149,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,above 15 percentage,between 5- 10 percentage,Green
+1187,CASH IN HAND,60+,61,100000,100000-120000,10,2014,37,0.568776879,Medium_risk_sub_purpose_code,60-80,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+1204,CASH IN HAND,36-48,37,70000,60000-80000,10,2014,55,0.387310983,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,Missing,Green
+1205,Three Wheeler-Lease-Registered,60+,60,60000,60000-80000,10,2014,41,0.66265896,Medium_risk_sub_purpose_code,Missing,above 200 percentage,between 10 - 15 percentage,less than 2 percentage,Red
+1248,CASH IN HAND,24-36,25,100000,100000-120000,13,2011,68,0.634380387,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+1252,Three Wheeler-Lease-Registered,< 24,13,120000,120000+,10,2014,49,0.14065811,Low_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Red
+1256,CASH IN HAND,36-48,37,80000,80000-100000,19,2005,47,0.52203215,Low_risk_sub_purpose_code,40-60,between 100 - 150 percentage,between 10 - 15 percentage,between 2- 5 percentage,Green
+1262,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,10,2014,23,0.783042143,Medium_risk_sub_purpose_code,20-40,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+1271,CASH IN HAND,60+,61,10000,< 40000,6,2018,30,0.806161231,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+1279,CASH IN HAND,60+,61,120000,120000+,9,2015,32,0.62246,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+1280,CASH IN HAND,36-48,37,100000,100000-120000,18,2006,42,0.523474286,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Red
+1291,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,16,2008,19,0.827882581,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+1292,Three Wheeler-Lease-Registered,60+,73,50000,40000-60000,8,2016,52,0.261939471,Medium_risk_sub_purpose_code,Missing,between 150 - 200 percentage,above 15 percentage,less than 2 percentage,Red
+1298,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,6,2018,62,0.641117684,Low_risk_sub_purpose_code,60-80,between 100 - 150 percentage,between 10 - 15 percentage,between 2- 5 percentage,Green
+1302,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,13,2011,20,0.54036129,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+1317,CASH IN HAND,36-48,37,60000,60000-80000,10,2014,54,0.441315286,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+1320,Three Wheeler-Lease-Registered,36-48,43,60000,60000-80000,15,2009,33,0.400138507,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+1323,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,13,2011,42,0.5847625,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+1331,Three Wheeler-Lease-Registered,36-48,37,120000,120000+,9,2015,43,0.453961739,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,Missing,Green
+1348,CASH IN HAND,48-60,49,100000,100000-120000,9,2015,40,0.547467544,Low_risk_sub_purpose_code,Missing,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+1349,CASH IN HAND,48-60,49,100000,100000-120000,17,2007,39,0.798612606,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+1351,Three Wheeler-Lease-Registered,36-48,37,75000,60000-80000,14,2010,31,0.623167713,Low_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+1356,CASH IN HAND,36-48,37,60000,60000-80000,15,2009,35,0.368810511,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+1359,Three Wheeler-Lease-Registered,48-60,49,110000,100000-120000,13,2011,58,0.610611613,Medium_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+1364,CASH IN HAND,48-60,49,200000,120000+,12,2012,48,0.657808867,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+1367,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,18,2006,25,0.766891429,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Red
+1389,Three Wheeler-Lease-Registered,36-48,43,80000,80000-100000,11,2013,58,0.21624456,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+1393,Three Wheeler-Lease-Registered,60+,73,60000,60000-80000,9,2015,29,0.8626272,Medium_risk_sub_purpose_code,20-40,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+1447,Three Wheeler-Lease-Registered,36-48,43,100000,100000-120000,18,2006,56,0.751398571,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+1451,CASH IN HAND,36-48,37,80000,80000-100000,12,2012,47,0.443538113,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+1460,Three Wheeler-Lease-Registered,48-60,55,100000,100000-120000,14,2010,20,0.628207448,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,above 15 percentage,Missing,Green
+1474,Three Wheeler-Lease-Registered,36-48,37,50000,40000-60000,13,2011,23,0.51789729,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,Missing,Green
+1476,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,13,2011,46,0.580164129,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+1484,CASH IN HAND,36-48,37,80000,80000-100000,10,2014,47,0.509324393,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+1489,Three Wheeler-Lease-Registered,36-48,37,80000,80000-100000,13,2011,25,0.590466065,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+1492,Three Wheeler-Lease-Registered,< 24,19,70000,60000-80000,9,2015,40,0.201640376,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+1504,Three Wheeler-Lease-Registered,60+,60,80000,80000-100000,18,2006,33,0.703768116,Low_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+1508,Three Wheeler-Lease-Registered,60+,60,80000,80000-100000,19,2005,21,0.751878558,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,above 15 percentage,between 2- 5 percentage,Red
+1527,CASH IN HAND,24-36,25,80000,80000-100000,16,2008,55,0.218669677,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+1565,Three Wheeler-Lease-Registered,36-48,37,70000,60000-80000,17,2007,32,0.421153613,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+1568,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,13,2011,39,0.622405161,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+1576,CASH IN HAND,< 24,13,7000000,120000+,9,2015,35,0.660878873,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,above 15 percentage,less than 2 percentage,Red
+1577,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,13,2011,43,0.817704258,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+1579,Three Wheeler-Lease-Registered,60+,60,80000,80000-100000,15,2009,28,0.728096677,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+1590,CASH IN HAND,60+,61,120000,120000+,9,2015,49,0.795947619,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+1599,CASH IN HAND,48-60,49,100000,100000-120000,8,2016,47,0.308204021,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+1606,CASH IN HAND,24-36,25,150000,120000+,5,2019,54,0.767012525,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+1609,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,14,2010,30,0.621512329,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+1622,CASH IN HAND,36-48,37,100000,100000-120000,10,2014,37,0.33308763,Low_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+1637,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,13,2011,29,0.801670194,Medium_risk_sub_purpose_code,20-40,between 100 - 150 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+1644,CASH IN HAND,48-60,49,100000,100000-120000,12,2012,33,0.590604878,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,Missing,Red
+1648,CASH IN HAND,36-48,43,75000,60000-80000,13,2011,39,0.597773142,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+1656,Three Wheeler-Lease-Registered,36-48,37,65000,60000-80000,18,2006,39,0.52744065,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+1677,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,11,2013,23,0.828392381,Medium_risk_sub_purpose_code,20-40,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+1702,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,18,2006,40,0.62246,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 5 - 10 percentage,less than 2 percentage,Red
+1722,Three Wheeler-Lease-Registered,60+,60,100000,100000-120000,9,2015,20,0.625,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+1767,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,11,2013,19,0.622164762,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+1787,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,12,2012,39,0.727758491,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,above 15 percentage,between 5- 10 percentage,Green
+1789,CASH IN HAND,60+,61,800000,120000+,9,2015,44,0.518716522,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Red
+1795,Three Wheeler-Lease-Registered,48-60,49,75000,60000-80000,15,2009,40,0.302999124,Medium_risk_sub_purpose_code,0-20,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+1833,Three Wheeler-Lease-Registered,60+,61,75000,60000-80000,9,2015,35,0.589763478,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+1838,Three Wheeler-Lease-Registered,48-60,49,65000,60000-80000,9,2015,33,0.677589565,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+1843,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,17,2007,53,0.622733445,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+1845,Three Wheeler-Lease-Registered,48-60,49,90000,80000-100000,14,2010,30,0.624482192,Low_risk_sub_purpose_code,20-40,above 200 percentage,above 15 percentage,less than 2 percentage,Red
+1865,CASH IN HAND,24-36,25,70000,60000-80000,13,2011,27,0.437502968,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,Missing,Green
+1872,CASH IN HAND,36-48,37,100000,100000-120000,10,2014,52,0.288210867,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+1886,CASH IN HAND,48-60,49,15000,< 40000,16,2008,44,0.632645752,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,less than 2 percentage,Red
+1909,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,12,2012,47,0.50606439,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,Missing,Green
+1941,CASH IN HAND,60+,61,80000,80000-100000,7,2017,32,0.517203333,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+1943,CASH IN HAND,36-48,37,80000,80000-100000,12,2012,48,0.510427317,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+1995,CASH IN HAND,36-48,43,120000,120000+,9,2015,36,0.490326957,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,above 15 percentage,between 2- 5 percentage,Green
+2012,Three Wheeler-Lease-Registered,48-60,49,120000,120000+,16,2008,37,0.624482581,Low_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Red
+2024,CASH IN HAND,60+,61,100000,100000-120000,9,2015,72,0.517654783,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+2027,Three Wheeler-Lease-Registered,36-48,37,60000,60000-80000,16,2008,27,0.607905806,Low_risk_sub_purpose_code,20-40,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+2028,Three Wheeler-Lease-Registered,48-60,49,60000,60000-80000,18,2006,23,0.624482927,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+2038,Three Wheeler-Lease-Registered,60+,61,75000,60000-80000,9,2015,27,0.450213043,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+2064,Three Wheeler-Lease-Registered,36-48,37,120000,120000+,10,2014,32,0.317357668,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+2068,CASH IN HAND,60+,61,200000,120000+,9,2015,59,0.652321739,Medium_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+2089,CASH IN HAND,60+,61,75000,60000-80000,13,2011,48,0.622191484,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+2092,CASH IN HAND,60+,61,10000,< 40000,13,2011,50,0.795834839,Medium_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+2096,CASH IN HAND,36-48,37,75000,60000-80000,12,2012,52,0.804811702,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+2110,Three Wheeler-Lease-Registered,36-48,37,75000,60000-80000,13,2011,43,0.525735226,Low_risk_sub_purpose_code,60-80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+2114,Three Wheeler-Lease-Registered,48-60,49,69000,60000-80000,17,2007,55,0.831177143,Medium_risk_sub_purpose_code,20-40,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+2143,CASH IN HAND,60+,61,80000,80000-100000,13,2011,39,0.722712907,Medium_risk_sub_purpose_code,below 0,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+2169,Three Wheeler-Lease-Registered,48-60,49,60000,60000-80000,12,2012,24,0.759345366,Medium_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+2189,CASH IN HAND,36-48,37,80000,80000-100000,18,2006,51,0.627482927,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+2200,CASH IN HAND,36-48,37,50000,40000-60000,10,2014,35,0.378305665,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+2227,CASH IN HAND,36-48,37,120000,120000+,9,2015,38,0.835288696,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,Missing,Green
+2231,CASH IN HAND,36-48,43,100000,100000-120000,9,2015,43,0.602290995,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 10 - 15 percentage,above 10 percentage,Green
+2233,CASH IN HAND,36-48,37,120000,120000+,19,2005,51,0.514095599,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+2236,Three Wheeler-Lease-Registered,48-60,49,45000,40000-60000,14,2010,29,0.427283862,Medium_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+2238,Three Wheeler-Lease-Registered,36-48,37,80000,80000-100000,14,2010,45,0.553614345,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+2273,Three Wheeler-Lease-Registered,24-36,25,80000,80000-100000,11,2013,25,0.631673575,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+2281,CASH IN HAND,36-48,37,70000,60000-80000,6,2018,29,0.343614359,Medium_risk_sub_purpose_code,20-40,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Green
+2307,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,9,2015,37,0.62168,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+2308,Three Wheeler-Lease-Registered,48-60,49,75000,60000-80000,13,2011,49,0.623139097,Low_risk_sub_purpose_code,below 0,between 50 - 100 percentage,above 15 percentage,between 2- 5 percentage,Red
+2310,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,16,2008,33,0.622459355,Low_risk_sub_purpose_code,20-40,between 150 - 200 percentage,less than 1 percentage,between 2- 5 percentage,Green
+2315,CASH IN HAND,60+,61,75000,60000-80000,10,2014,28,0.703030751,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+2342,Three Wheeler-Lease-Registered,60+,61,55000,40000-60000,11,2013,21,0.622460104,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 10 - 15 percentage,less than 2 percentage,Green
+2353,CASH IN HAND,48-60,49,130000,120000+,11,2013,56,0.659179058,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+2359,Three Wheeler-Lease-Registered,36-48,37,45000,40000-60000,11,2013,30,0.692821905,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 5 - 10 percentage,above 10 percentage,Green
+2380,CASH IN HAND,60+,61,150000,120000+,12,2012,33,0.676060377,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+2382,CASH IN HAND,24-36,25,40000,40000-60000,18,2006,22,0.153408696,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+2407,Three Wheeler-Lease-Registered,48-60,49,70000,60000-80000,9,2015,38,0.538265728,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+2435,Three Wheeler-Lease-Registered,24-36,25,15000,< 40000,9,2015,39,0.63114,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+2451,Three Wheeler-Lease-Registered,48-60,49,73000,60000-80000,19,2005,33,0.449024865,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+2471,CASH IN HAND,60+,61,100000,100000-120000,12,2012,24,0.804848302,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,above 15 percentage,between 2- 5 percentage,Red
+2477,Three Wheeler-Lease-Registered,< 24,19,100000,100000-120000,18,2006,43,0.842441429,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+2483,CASH IN HAND,24-36,25,70000,60000-80000,17,2007,45,0.283124706,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+2500,CASH IN HAND,36-48,37,50000,40000-60000,15,2009,49,0.670669781,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Green
+2539,CASH IN HAND,36-48,37,70000,60000-80000,13,2011,21,0.53872,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+2543,CASH IN HAND,60+,61,7000,< 40000,9,2015,33,0.827375652,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+2580,CASH IN HAND,60+,61,50000,40000-60000,14,2010,27,0.782318345,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+2585,CASH IN HAND,60+,61,100000,100000-120000,11,2013,35,0.739766839,Low_risk_sub_purpose_code,40-60,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+2598,CASH IN HAND,< 24,19,100000,100000-120000,9,2015,33,0.264466995,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+2633,Three Wheeler-Lease-Registered,48-60,49,70000,60000-80000,16,2008,20,0.624482609,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+2637,CASH IN HAND,24-36,25,65000,60000-80000,10,2014,24,0.372987579,Low_risk_sub_purpose_code,0-20,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+2664,Three Wheeler-Lease-Registered,24-36,25,63000,60000-80000,18,2006,31,0.30289,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+2665,CASH IN HAND,48-60,49,60000,60000-80000,14,2010,36,0.621375305,Low_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+2673,Three Wheeler-Lease-Registered,48-60,49,150000,120000+,9,2015,40,0.597746919,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+2690,CASH IN HAND,48-60,49,75000,60000-80000,12,2012,42,0.581417734,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+2695,CASH IN HAND,48-60,49,70000,60000-80000,18,2006,36,0.696391429,Medium_risk_sub_purpose_code,60-80,between 100 - 150 percentage,between 10 - 15 percentage,between 2- 5 percentage,Green
+2696,CASH IN HAND,60+,61,80000,80000-100000,18,2006,35,0.739635714,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+2713,Three Wheeler-Lease-Registered,24-36,31,50000,40000-60000,14,2010,23,0.463655724,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+2718,CASH IN HAND,24-36,25,80000,80000-100000,8,2016,57,0.17949037,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+2720,CASH IN HAND,48-60,49,100000,100000-120000,8,2016,24,0.520363714,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+2758,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,12,2012,42,0.70934439,Low_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,between 2- 5 percentage,Green
+2776,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,12,2012,26,0.526767296,Low_risk_sub_purpose_code,0-20,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+2784,Three Wheeler-Lease-Registered,60+,73,100000,100000-120000,15,2009,20,0.826703284,Medium_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+2806,Three Wheeler-Lease-Registered,60+,61,7000,< 40000,14,2010,50,3.314300541,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+2816,CASH IN HAND,48-60,49,100000,100000-120000,9,2015,76,0.542908696,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+2817,CASH IN HAND,60+,61,65000,60000-80000,11,2013,55,0.570170476,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+2822,CASH IN HAND,60+,61,150000,120000+,9,2015,56,0.827501739,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+2823,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,9,2015,33,0.827375652,Medium_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Red
+2840,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,11,2013,33,0.495620952,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+2842,Three Wheeler-Lease-Registered,60+,61,45000,40000-60000,10,2014,24,0.826874451,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Red
+2852,Three Wheeler-Lease-Registered,48-60,49,5000,< 40000,18,2006,20,0.831177143,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+2854,Three Wheeler-Lease-Registered,24-36,25,50000,40000-60000,9,2015,24,0.368734783,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,above 10 percentage,Green
+2856,CASH IN HAND,60+,61,80000,80000-100000,8,2016,25,0.805740529,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+2871,CASH IN HAND,24-36,25,75000,60000-80000,13,2011,31,0.584931097,Medium_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Red
+2883,Three Wheeler-Lease-Registered,60+,73,100000,100000-120000,12,2012,48,0.620991195,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+2887,Three Wheeler-Lease-Registered,36-48,37,50000,40000-60000,15,2009,38,0.373810149,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+2930,CASH IN HAND,36-48,37,50000,40000-60000,18,2006,32,0.62817069,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+2938,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,16,2008,20,0.828392258,Medium_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 10 - 15 percentage,less than 2 percentage,Red
+2952,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,9,2015,29,0.521708696,Medium_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,between 2- 5 percentage,Green
+2956,CASH IN HAND,48-60,49,85000,80000-100000,13,2011,30,0.779751226,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+2967,Three Wheeler-Lease-Registered,60+,61,40000,40000-60000,18,2006,41,0.827375714,Medium_risk_sub_purpose_code,20-40,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Red
+2976,CASH IN HAND,60+,61,150000,120000+,10,2014,26,0.707820532,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+2986,CASH IN HAND,36-48,37,120000,120000+,12,2012,48,0.440324878,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+2989,CASH IN HAND,24-36,31,750000,120000+,9,2015,33,0.365763478,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+2995,CASH IN HAND,48-60,49,100000,100000-120000,6,2018,32,0.340406974,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+3000,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,13,2011,28,0.512781419,Medium_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+3003,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,12,2012,20,0.621415849,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+3008,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,16,2008,20,0.62245942,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+3045,Three Wheeler-Lease-Registered,48-60,49,70000,60000-80000,14,2010,60,0.726444505,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,above 15 percentage,between 2- 5 percentage,Red
+3048,Three Wheeler-Lease-Registered,36-48,37,75000,60000-80000,14,2010,20,0.628170162,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+3058,Three Wheeler-Lease-Registered,24-36,25,80000,80000-100000,12,2012,35,0.279923522,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+3061,Three Wheeler-Lease-Registered,60+,61,150000,120000+,14,2010,39,0.696992,Medium_risk_sub_purpose_code,60-80,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+3102,Three Wheeler-Lease-Registered,48-60,49,75000,60000-80000,12,2012,55,0.699497561,Medium_risk_sub_purpose_code,0-20,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+3106,Three Wheeler-Lease-Registered,48-60,49,75000,60000-80000,16,2008,45,0.708272258,Medium_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,between 2- 5 percentage,Red
+3112,Three Wheeler-Lease-Registered,48-60,49,75000,60000-80000,16,2008,19,0.624482581,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 10 - 15 percentage,between 2- 5 percentage,Green
+3139,CASH IN HAND,60+,61,80000,80000-100000,8,2016,49,0.722124021,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+3147,CASH IN HAND,48-60,49,70000,60000-80000,11,2013,41,0.50435534,Medium_risk_sub_purpose_code,below 0,less than 50 percentage,between 10 - 15 percentage,Missing,Red
+3153,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,18,2006,51,0.624482857,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+3160,Three Wheeler-Lease-Registered,60+,60,85000,80000-100000,17,2007,21,0.655264055,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Red
+3166,Three Wheeler-Lease-Registered,60+,61,90000,80000-100000,14,2010,33,0.687324564,Low_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+3171,Three Wheeler-Lease-Registered,60+,61,150000,120000+,16,2008,34,0.731709677,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Red
+3191,CASH IN HAND,48-60,49,50000,40000-60000,9,2015,30,0.557613043,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+3198,CASH IN HAND,24-36,25,90000,80000-100000,8,2016,26,0.531869555,Low_risk_sub_purpose_code,20-40,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+3208,CASH IN HAND,60+,61,90000,80000-100000,14,2010,32,0.770316138,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+3234,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,17,2007,25,0.827881681,Medium_risk_sub_purpose_code,0-20,less than 50 percentage,less than 1 percentage,Missing,Red
+3268,Three Wheeler-Lease-Registered,24-36,24,800000,120000+,12,2012,42,0.362926829,Medium_risk_sub_purpose_code,below 0,between 100 - 150 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+3291,Three Wheeler-Lease-Registered,< 24,18,60000,60000-80000,14,2010,51,0.210215054,Low_risk_sub_purpose_code,below 0,between 150 - 200 percentage,above 15 percentage,between 5- 10 percentage,Red
+3294,CASH IN HAND,60+,61,80000,80000-100000,9,2015,37,0.617226316,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+3298,Three Wheeler-Lease-Registered,24-36,24,70000,60000-80000,18,2006,22,0.314202899,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 10 - 15 percentage,between 5- 10 percentage,Red
+3299,CASH IN HAND,24-36,25,100000,100000-120000,14,2010,54,0.727696804,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+3313,Three Wheeler-Lease-Registered,36-48,36,65000,60000-80000,14,2010,51,0.353250767,Medium_risk_sub_purpose_code,0-20,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Red
+3327,CASH IN HAND,48-60,49,40000,40000-60000,10,2014,67,0.15529526,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+3329,CASH IN HAND,60+,61,70000,60000-80000,9,2015,38,0.715325217,Medium_risk_sub_purpose_code,60-80,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Red
+3333,Three Wheeler-Lease-Registered,36-48,37,70000,60000-80000,15,2009,32,0.80576,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+3337,CASH IN HAND,24-36,31,100000,100000-120000,11,2013,58,0.250505714,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,Missing,Green
+3345,CASH IN HAND,24-36,31,90000,80000-100000,11,2013,52,0.300606667,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,above 15 percentage,between 5- 10 percentage,Green
+3351,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,11,2013,32,0.450348077,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+3368,CASH IN HAND,36-48,37,100000,100000-120000,13,2011,37,0.730155355,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+3384,CASH IN HAND,36-48,37,150000,120000+,6,2018,54,0.257289026,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,above 10 percentage,Green
+3385,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,15,2009,21,0.62184,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+3387,CASH IN HAND,36-48,43,60000,60000-80000,10,2014,42,0.541514465,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+3393,Three Wheeler-Lease-Registered,60+,61,500000,120000+,13,2011,40,0.828392258,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+3396,Three Wheeler-Lease-Registered,24-36,25,85000,80000-100000,11,2013,55,0.417482857,Low_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+3404,Three Wheeler-Lease-Registered,24-36,25,80000,80000-100000,10,2014,43,0.195795607,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+3408,CASH IN HAND,48-60,49,70000,60000-80000,9,2015,46,0.672905263,Low_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+3421,Three Wheeler-Lease-Registered,48-60,49,60000,60000-80000,15,2009,27,0.621007761,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+3422,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,13,2011,60,0.586948798,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+3444,CASH IN HAND,48-60,49,200000,120000+,6,2018,44,0.774658118,Low_risk_sub_purpose_code,60-80,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+3445,CASH IN HAND,60+,61,80000,80000-100000,18,2006,44,0.729147107,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+3460,Three Wheeler-Lease-Registered,60+,61,350000,120000+,15,2009,25,0.6837625,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+3461,CASH IN HAND,36-48,37,100000,100000-120000,13,2011,42,0.521124129,Low_risk_sub_purpose_code,40-60,between 150 - 200 percentage,above 15 percentage,between 2- 5 percentage,Red
+3466,CASH IN HAND,36-48,37,80000,80000-100000,13,2011,30,0.751310452,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+3476,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,13,2011,34,0.792723613,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+3508,Three Wheeler-Lease-Registered,24-36,25,70000,60000-80000,13,2011,36,0.481312732,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+3538,CASH IN HAND,48-60,49,150000,120000+,12,2012,46,0.536137862,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+3540,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,16,2008,39,0.804131613,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+3543,CASH IN HAND,48-60,49,45000,40000-60000,19,2005,32,0.826081495,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+3561,CASH IN HAND,48-60,49,100000,100000-120000,16,2008,35,0.334957419,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,between 2- 5 percentage,Green
+3563,CASH IN HAND,60+,61,50000,40000-60000,12,2012,25,0.674283902,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+3598,Three Wheeler-Lease-Registered,24-36,25,80000,80000-100000,14,2010,59,0.316541793,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+3601,CASH IN HAND,36-48,37,70000,60000-80000,19,2005,24,0.626213084,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+3626,CASH IN HAND,36-48,37,80000,80000-100000,15,2009,21,0.554043796,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+3633,CASH IN HAND,48-60,49,65000,60000-80000,9,2015,53,0.29124,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+3636,CASH IN HAND,24-36,25,75000,60000-80000,12,2012,52,0.303202956,Low_risk_sub_purpose_code,20-40,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Green
+3643,Three Wheeler-Lease-Registered,36-48,37,200000,120000+,12,2012,25,0.834431933,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,above 10 percentage,Red
+3664,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,12,2012,25,0.628592118,Low_risk_sub_purpose_code,0-20,between 150 - 200 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+3681,Three Wheeler-Lease-Registered,60+,61,70000,60000-80000,13,2011,36,0.773997419,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+3697,CASH IN HAND,36-48,37,100000,100000-120000,8,2016,32,0.722376094,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+3709,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,12,2012,57,0.594316478,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+3710,Three Wheeler-Lease-Registered,60+,61,40000,40000-60000,14,2010,30,0.826873557,Low_risk_sub_purpose_code,20-40,between 150 - 200 percentage,above 15 percentage,between 2- 5 percentage,Green
+3726,CASH IN HAND,60+,61,70000,60000-80000,15,2009,50,0.765631045,Medium_risk_sub_purpose_code,40-60,between 50 - 100 percentage,less than 1 percentage,less than 2 percentage,Red
+3732,Three Wheeler-Lease-Registered,48-60,49,60000,60000-80000,14,2010,22,0.802050207,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,above 10 percentage,Red
+3752,CASH IN HAND,36-48,37,70000,60000-80000,11,2013,33,0.398838095,Low_risk_sub_purpose_code,20-40,less than 50 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+3766,CASH IN HAND,60+,61,60000,60000-80000,11,2013,30,0.631574038,Medium_risk_sub_purpose_code,60-80,between 100 - 150 percentage,less than 1 percentage,less than 2 percentage,Green
+3772,Three Wheeler-Lease-Registered,36-48,37,200000,120000+,6,2018,34,0.268064529,Low_risk_sub_purpose_code,0-20,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+3796,CASH IN HAND,60+,61,40000,40000-60000,10,2014,34,0.723205263,Medium_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+3801,Three Wheeler-Lease-Registered,48-60,49,95000,80000-100000,11,2013,30,0.392465714,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 10 - 15 percentage,between 2- 5 percentage,Green
+3811,CASH IN HAND,60+,61,50000,40000-60000,11,2013,47,0.494015238,Low_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+3829,Three Wheeler-Lease-Registered,48-60,49,200000,120000+,9,2015,45,0.586566957,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 10 - 15 percentage,between 5- 10 percentage,Red
+3851,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,7,2017,46,0.518716667,High_risk_sub_purpose_code,40-60,between 150 - 200 percentage,less than 1 percentage,between 2- 5 percentage,Red
+3860,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,10,2014,24,0.624225665,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+3867,Three Wheeler-Lease-Registered,36-48,37,90000,80000-100000,11,2013,42,0.729373333,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+3868,Three Wheeler-Lease-Registered,60+,61,90000,80000-100000,14,2010,37,0.828391946,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+3869,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,6,2018,53,0.454129231,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+3883,CASH IN HAND,36-48,37,100000,100000-120000,7,2017,43,0.62817,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+3891,CASH IN HAND,48-60,49,40000,40000-60000,15,2009,43,0.494767372,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+3902,Three Wheeler-Lease-Registered,48-60,49,90000,80000-100000,14,2010,54,0.415830667,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+3916,Three Wheeler-Lease-Registered,36-48,37,70000,60000-80000,17,2007,59,0.338162862,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+3929,CASH IN HAND,60+,61,80000,80000-100000,10,2014,53,0.406588671,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,above 15 percentage,between 2- 5 percentage,Red
+3936,Three Wheeler-Lease-Registered,60+,61,75000,60000-80000,15,2009,42,0.828392836,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+3940,CASH IN HAND,36-48,37,50000,40000-60000,19,2005,30,0.545416993,Low_risk_sub_purpose_code,0-20,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Red
+3945,Three Wheeler-Lease-Registered,36-48,37,50000,40000-60000,10,2014,50,0.504854566,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+3946,Three Wheeler-Lease-Registered,36-48,37,175000,120000+,13,2011,45,0.807805935,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+3956,CASH IN HAND,48-60,49,120000,120000+,4,2020,43,0.634287761,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+3978,CASH IN HAND,24-36,25,200000,120000+,12,2012,32,0.395244335,Low_risk_sub_purpose_code,0-20,between 50 - 100 percentage,between 10 - 15 percentage,between 5- 10 percentage,Red
+3998,CASH IN HAND,60+,61,70000,60000-80000,15,2009,50,0.655524776,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+3999,CASH IN HAND,48-60,49,100000,100000-120000,14,2010,48,0.591869793,Medium_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+4019,Three Wheeler-Lease-Registered,60+,61,41515,40000-60000,13,2011,23,0.693090065,Medium_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+4022,Three Wheeler-Lease-Registered,48-60,49,150000,120000+,12,2012,35,0.519894634,Medium_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+4030,Three Wheeler-Lease-Registered,36-48,37,150000,120000+,12,2012,23,0.45938439,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+4048,CASH IN HAND,36-48,37,90000,80000-100000,14,2010,37,0.560597047,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+4071,Three Wheeler-Lease-Registered,36-48,37,150000,120000+,8,2016,22,0.628169669,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Red
+4081,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,13,2011,41,0.803225806,Medium_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+4091,CASH IN HAND,36-48,37,50000,40000-60000,14,2010,47,0.393268188,Low_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,less than 2 percentage,Green
+4093,Three Wheeler-Lease-Registered,36-48,37,125000,120000+,18,2006,42,0.848642373,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+4095,Three Wheeler-Lease-Registered,36-48,37,85000,80000-100000,10,2014,57,0.566384277,Low_risk_sub_purpose_code,0-20,between 50 - 100 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+4098,Three Wheeler-Lease-Registered,48-60,49,135000,120000+,16,2008,19,0.624482581,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+4107,Three Wheeler-Lease-Registered,48-60,49,70000,60000-80000,5,2019,51,0.628582057,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+4114,CASH IN HAND,60+,61,50000,40000-60000,13,2011,38,0.79924129,Medium_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Red
+4143,Three Wheeler-Lease-Registered,36-48,37,55000,40000-60000,17,2007,37,0.667045378,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+4194,Three Wheeler-Lease-Registered,36-48,37,150000,120000+,7,2017,46,0.429126667,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+4196,Three Wheeler-Lease-Registered,60+,61,200000,120000+,8,2016,61,0.699350688,Low_risk_sub_purpose_code,40-60,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+4205,Three Wheeler-Lease-Registered,48-60,49,60000,60000-80000,17,2007,29,0.728947899,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+4206,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,10,2014,21,0.715659653,High_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+4215,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,18,2006,30,0.62817,Low_risk_sub_purpose_code,60-80,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+4222,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,16,2008,33,0.799433548,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+4239,Three Wheeler-Lease-Registered,60+,61,120000,120000+,14,2010,51,0.725435983,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+4250,Three Wheeler-Lease-Registered,60+,61,150000,120000+,8,2016,40,0.731805336,Low_risk_sub_purpose_code,0-20,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+4262,CASH IN HAND,36-48,37,100000,100000-120000,8,2016,25,0.382011403,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+4264,CASH IN HAND,36-48,37,250000,120000+,7,2017,51,0.680164167,High_risk_sub_purpose_code,40-60,between 50 - 100 percentage,above 15 percentage,between 5- 10 percentage,Green
+4308,Three Wheeler-Lease-Registered,24-36,25,85000,80000-100000,15,2009,27,0.632902687,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Red
+4335,CASH IN HAND,60+,61,75000,60000-80000,12,2012,36,0.82737561,Low_risk_sub_purpose_code,40-60,less than 50 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+4365,CASH IN HAND,36-48,37,50000,40000-60000,11,2013,43,0.358797115,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+4392,Three Wheeler-Lease-Registered,36-48,43,10000,< 40000,12,2012,49,0.488963902,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Red
+4417,CASH IN HAND,36-48,37,100000,100000-120000,10,2014,43,0.604660347,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+4428,CASH IN HAND,36-48,37,70000,60000-80000,10,2014,28,0.431464509,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+4429,CASH IN HAND,36-48,37,150000,120000+,9,2015,47,0.67642087,Low_risk_sub_purpose_code,60-80,less than 50 percentage,between 10 - 15 percentage,between 5- 10 percentage,Green
+4448,CASH IN HAND,36-48,37,150000,120000+,19,2005,32,0.626213084,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+4451,Three Wheeler-Lease-Registered,36-48,37,150000,120000+,10,2014,25,0.796740778,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+4459,CASH IN HAND,60+,61,60000,60000-80000,14,2010,39,0.511143724,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,above 15 percentage,between 2- 5 percentage,Green
+4468,CASH IN HAND,24-36,25,60000,60000-80000,9,2015,50,0.184367826,Low_risk_sub_purpose_code,60-80,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+4473,CASH IN HAND,60+,61,50000,40000-60000,16,2008,22,0.627203871,Low_risk_sub_purpose_code,40-60,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+4474,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,13,2011,32,0.467558194,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+4500,Three Wheeler-Lease-Registered,60+,60,400000,120000+,16,2008,51,0.598580645,Medium_risk_sub_purpose_code,Above 80,between 150 - 200 percentage,less than 1 percentage,between 2- 5 percentage,Red
+4510,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,8,2016,38,0.48183619,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+4526,Three Wheeler-Lease-Registered,60+,61,90000,80000-100000,14,2010,28,0.617777655,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+4527,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,9,2015,25,0.36201913,Low_risk_sub_purpose_code,20-40,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+4562,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,9,2015,46,0.622068293,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,less than 2 percentage,Red
+4571,CASH IN HAND,36-48,37,80000,80000-100000,15,2009,44,0.692007164,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+4585,Three Wheeler-Lease-Registered,48-60,49,95000,80000-100000,17,2007,47,0.622733445,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Red
+4596,CASH IN HAND,24-36,31,200000,120000+,5,2019,65,0.505580619,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+4605,Three Wheeler-Lease-Registered,36-48,37,80000,80000-100000,19,2005,46,0.626213084,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+4611,Three Wheeler-Lease-Registered,60+,73,80000,80000-100000,15,2009,37,0.825635821,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+4645,Three Wheeler-Lease-Registered,48-60,49,120000,120000+,12,2012,25,0.602225912,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+4692,Three Wheeler-Lease-Registered,36-48,37,50000,40000-60000,14,2010,26,0.686785503,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+4704,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,14,2010,26,0.772795705,Low_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+4705,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,15,2009,37,0.625044776,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+4708,CASH IN HAND,60+,61,100000,100000-120000,9,2015,45,0.731385088,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+4712,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,15,2009,25,0.81552597,Medium_risk_sub_purpose_code,20-40,between 100 - 150 percentage,less than 1 percentage,between 5- 10 percentage,Red
+4718,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,7,2017,42,0.783926667,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+4736,Three Wheeler-Lease-Registered,24-36,31,70000,60000-80000,19,2005,20,0.630492505,Low_risk_sub_purpose_code,Missing,less than 50 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+4741,Three Wheeler-Lease-Registered,36-48,36,50000,40000-60000,9,2015,22,0.456869565,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+4745,Three Wheeler-Lease-Registered,60+,61,90000,80000-100000,18,2006,38,0.826380668,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Red
+4757,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,15,2009,23,0.62684713,Low_risk_sub_purpose_code,0-20,between 150 - 200 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+4767,CASH IN HAND,60+,61,75000,60000-80000,16,2008,35,0.827882581,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+4774,CASH IN HAND,24-36,25,95000,80000-100000,13,2011,28,0.635768034,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+4798,Three Wheeler-Lease-Registered,60+,61,700000,120000+,17,2007,36,0.820925042,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+4828,Three Wheeler-Lease-Registered,60+,73,60000,60000-80000,9,2015,23,0.8780192,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Red
+4844,CASH IN HAND,60+,61,10000,< 40000,17,2007,52,0.634617815,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+4846,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,17,2007,34,0.69527395,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+4847,CASH IN HAND,60+,61,80000,80000-100000,11,2013,35,0.717571429,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+4851,CASH IN HAND,48-60,49,60000,60000-80000,15,2009,55,0.434450149,Low_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+4861,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,12,2012,23,0.706415094,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Red
+4867,CASH IN HAND,60+,61,200000,120000+,10,2014,29,0.717687861,Low_risk_sub_purpose_code,20-40,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+4901,Three Wheeler-Lease-Registered,48-60,48,50000,40000-60000,13,2011,34,0.532985658,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,less than 2 percentage,Red
+4925,CASH IN HAND,36-48,37,150000,120000+,11,2013,30,0.786608571,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+4927,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,13,2011,36,0.827882323,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,above 10 percentage,Green
+4943,Three Wheeler-Lease-Registered,60+,61,38000,< 40000,19,2005,22,0.823014579,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,above 15 percentage,less than 2 percentage,Red
+4946,CASH IN HAND,48-60,49,300000,120000+,10,2014,56,0.512902659,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+4952,Three Wheeler-Lease-Registered,60+,61,150000,120000+,13,2011,54,0.621121032,Low_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+4964,CASH IN HAND,24-36,25,80000,80000-100000,7,2017,35,0.542761667,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+4976,CASH IN HAND,60+,61,120000,120000+,16,2008,27,0.80020129,Medium_risk_sub_purpose_code,40-60,between 150 - 200 percentage,between 5 - 10 percentage,less than 2 percentage,Red
+4983,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,13,2011,51,0.624187836,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+5002,CASH IN HAND,60+,61,150000,120000+,14,2010,45,0.732987788,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+5007,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,18,2006,52,0.592326829,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+5026,CASH IN HAND,36-48,43,60000,60000-80000,9,2015,32,0.317549565,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+5029,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,10,2014,25,0.433668333,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,above 10 percentage,Green
+5030,CASH IN HAND,36-48,37,100000,100000-120000,9,2015,46,0.354395652,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+5039,Three Wheeler-Lease-Registered,36-48,37,150000,120000+,14,2010,61,0.812606897,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+5065,CASH IN HAND,48-60,49,70000,60000-80000,15,2009,37,0.803122388,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+5069,CASH IN HAND,< 24,19,60000,60000-80000,6,2018,45,0.26430441,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+5093,CASH IN HAND,60+,61,50000,40000-60000,14,2010,21,0.514174897,Medium_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+5125,CASH IN HAND,36-48,37,65000,60000-80000,9,2015,31,0.522901739,Medium_risk_sub_purpose_code,0-20,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+5132,CASH IN HAND,24-36,25,100000,100000-120000,14,2010,51,0.308978019,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,above 15 percentage,between 5- 10 percentage,Green
+5153,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,14,2010,40,0.83117745,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+5154,CASH IN HAND,36-48,37,50000,40000-60000,19,2005,40,0.312764112,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+5158,Three Wheeler-Lease-Registered,36-48,43,1500000,120000+,10,2014,42,0.561949595,Medium_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+5200,CASH IN HAND,60+,61,75000,60000-80000,12,2012,24,0.774547455,Low_risk_sub_purpose_code,40-60,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+5236,Three Wheeler-Lease-Registered,60+,61,200000,120000+,10,2014,37,0.765203237,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+5238,Three Wheeler-Lease-Registered,48-60,49,350000,120000+,9,2015,27,0.830217391,Medium_risk_sub_purpose_code,60-80,between 100 - 150 percentage,less than 1 percentage,less than 2 percentage,Green
+5269,Three Wheeler-Lease-Registered,48-60,49,70000,60000-80000,10,2014,22,0.825640816,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,Missing,Green
+5287,Three Wheeler-Lease-Registered,36-48,37,85000,80000-100000,4,2020,61,0.541705075,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+5294,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,8,2016,54,0.839733026,Low_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+5298,CASH IN HAND,60+,61,50000,40000-60000,13,2011,27,0.640549161,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+5324,Three Wheeler-Lease-Registered,24-36,25,75000,60000-80000,10,2014,56,0.195697572,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+5334,Three Wheeler-Lease-Registered,60+,60,80000,80000-100000,10,2014,35,0.692230894,Low_risk_sub_purpose_code,0-20,between 50 - 100 percentage,above 15 percentage,between 2- 5 percentage,Red
+5352,CASH IN HAND,36-48,37,50000,40000-60000,13,2011,35,0.426627483,Low_risk_sub_purpose_code,40-60,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+5373,CASH IN HAND,48-60,49,200000,120000+,13,2011,43,0.775432595,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+5397,Three Wheeler-Lease-Registered,60+,61,85000,80000-100000,15,2009,29,0.806892222,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+5424,CASH IN HAND,60+,61,80000,80000-100000,11,2013,65,0.774893333,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+5431,CASH IN HAND,36-48,43,80000,80000-100000,14,2010,30,0.470122953,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+5457,Three Wheeler-Lease-Registered,36-48,37,80000,80000-100000,12,2012,57,0.774261132,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+5460,CASH IN HAND,48-60,49,100000,100000-120000,10,2014,44,0.455017803,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+5461,CASH IN HAND,60+,61,150000,120000+,17,2007,36,0.622808739,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+5469,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,10,2014,30,0.827577341,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+5471,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,17,2007,22,0.764801345,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+5481,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,15,2009,46,0.737656119,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,above 15 percentage,Missing,Red
+5482,CASH IN HAND,36-48,37,70000,60000-80000,15,2009,51,0.162511045,Low_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+5507,CASH IN HAND,36-48,37,70000,60000-80000,9,2015,57,0.35852193,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+5521,Three Wheeler-Lease-Registered,48-60,49,65000,60000-80000,19,2005,27,0.83021757,Medium_risk_sub_purpose_code,Missing,between 100 - 150 percentage,above 15 percentage,less than 2 percentage,Red
+5522,CASH IN HAND,< 24,19,80000,80000-100000,10,2014,22,0.297915376,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,Missing,Green
+5535,Three Wheeler-Lease-Registered,24-36,25,70000,60000-80000,19,2005,31,0.47556486,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 10 - 15 percentage,between 5- 10 percentage,Green
+5545,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,12,2012,23,0.523514118,Medium_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+5554,CASH IN HAND,36-48,37,50000,40000-60000,19,2005,31,0.52203215,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+5568,CASH IN HAND,48-60,49,100000,100000-120000,12,2012,31,0.70119122,Medium_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+5581,CASH IN HAND,48-60,49,700000,120000+,9,2015,44,0.825116522,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+5585,Three Wheeler-Lease-Registered,36-48,37,75000,60000-80000,18,2006,31,0.523474286,Low_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Red
+5598,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,12,2012,47,0.50987122,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,Missing,Green
+5626,CASH IN HAND,60+,61,75000,60000-80000,10,2014,32,0.826874451,Medium_risk_sub_purpose_code,20-40,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+5627,CASH IN HAND,48-60,49,10000,< 40000,17,2007,32,0.830695798,Medium_risk_sub_purpose_code,40-60,between 100 - 150 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+5645,CASH IN HAND,36-48,37,60000,60000-80000,12,2012,51,0.189636226,Low_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+5656,Three Wheeler-Lease-Registered,36-48,37,70000,60000-80000,18,2006,29,0.745794286,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+5659,Three Wheeler-Lease-Registered,< 24,19,100000,100000-120000,14,2010,49,0.130681279,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+5678,Three Wheeler-Lease-Registered,36-48,37,80000,80000-100000,9,2015,42,0.670391228,Low_risk_sub_purpose_code,below 0,between 50 - 100 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+5708,Three Wheeler-Lease-Registered,36-48,43,100000,100000-120000,10,2014,52,0.783443237,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+5748,CASH IN HAND,60+,61,85000,80000-100000,18,2006,29,0.734217143,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+5756,Three Wheeler-Lease-Registered,60+,61,40000,40000-60000,15,2009,21,0.828392836,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+5758,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,15,2009,41,0.827375522,Low_risk_sub_purpose_code,Missing,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Red
+5759,CASH IN HAND,60+,61,60000,60000-80000,8,2016,28,0.598189206,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+5778,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,18,2006,22,0.634804959,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+5808,CASH IN HAND,48-60,49,75000,60000-80000,9,2015,36,0.501709565,Medium_risk_sub_purpose_code,60-80,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+5823,CASH IN HAND,48-60,49,70000,60000-80000,9,2015,22,0.713727826,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+5844,CASH IN HAND,< 24,19,50000,40000-60000,11,2013,54,0.152903846,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Green
+5849,CASH IN HAND,60+,61,100000,100000-120000,9,2015,55,0.7376,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+5850,CASH IN HAND,36-48,37,100000,100000-120000,13,2011,31,0.523036903,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+5860,CASH IN HAND,24-36,25,60000,60000-80000,19,2005,25,0.395377778,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+5873,CASH IN HAND,36-48,37,70000,60000-80000,9,2015,27,0.408131304,Low_risk_sub_purpose_code,20-40,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+5885,CASH IN HAND,48-60,49,70000,60000-80000,15,2009,41,0.526339104,Medium_risk_sub_purpose_code,60-80,between 150 - 200 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+5888,CASH IN HAND,36-48,37,75000,60000-80000,11,2013,61,0.558473333,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+5922,Three Wheeler-Lease-Registered,60+,61,200000,120000+,10,2014,52,0.765671214,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+5923,Three Wheeler-Lease-Registered,36-48,37,200000,120000+,10,2014,45,0.624539191,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 10 - 15 percentage,between 2- 5 percentage,Green
+5932,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,14,2010,53,0.624482192,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+5936,CASH IN HAND,36-48,37,100000,100000-120000,13,2011,43,0.216025806,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+5951,CASH IN HAND,60+,61,120000,120000+,6,2018,58,0.806654359,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+5956,Three Wheeler-Lease-Registered,36-48,37,160000,120000+,12,2012,47,0.522792453,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+5974,CASH IN HAND,60+,61,50000,40000-60000,15,2009,20,0.618202985,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,Missing,Red
+5984,Three Wheeler-Lease-Registered,60+,61,90000,80000-100000,12,2012,22,0.826874146,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+5995,Three Wheeler-Lease-Registered,24-36,25,100000,100000-120000,17,2007,42,0.435864202,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+6004,CASH IN HAND,36-48,37,200000,120000+,14,2010,40,0.577310897,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+6006,Three Wheeler-Lease-Registered,60+,61,85000,80000-100000,19,2005,30,0.824909159,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+6022,CASH IN HAND,48-60,49,120000,120000+,10,2014,57,0.599949592,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+6044,Three Wheeler-Lease-Registered,36-48,37,85000,80000-100000,14,2010,32,0.656389517,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 10 - 15 percentage,between 2- 5 percentage,Green
+6049,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,14,2010,33,0.685565793,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+6064,Three Wheeler-Lease-Registered,60+,61,500000,120000+,6,2018,45,0.593653333,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Red
+6093,Three Wheeler-Lease-Registered,24-36,25,100000,100000-120000,13,2011,35,0.426351484,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,above 10 percentage,Green
+6107,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,11,2013,73,0.769900962,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+6117,Three Wheeler-Lease-Registered,48-60,49,120000,120000+,11,2013,44,0.61477513,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+6124,CASH IN HAND,48-60,49,80000,80000-100000,18,2006,42,0.831177143,Medium_risk_sub_purpose_code,40-60,between 50 - 100 percentage,above 15 percentage,between 2- 5 percentage,Red
+6148,Three Wheeler-Lease-Registered,48-60,55,65000,60000-80000,14,2010,43,0.73949131,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+6151,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,10,2014,54,0.619697572,Low_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+6159,CASH IN HAND,60+,61,100000,100000-120000,8,2016,31,0.623478335,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+6171,Three Wheeler-Lease-Registered,48-60,48,70000,60000-80000,14,2010,35,0.398716876,Low_risk_sub_purpose_code,below 0,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Green
+6172,CASH IN HAND,60+,61,60000,60000-80000,19,2005,41,0.821158879,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+6177,CASH IN HAND,36-48,43,90000,80000-100000,9,2015,27,0.50068087,Low_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+6179,Three Wheeler-Lease-Registered,< 24,19,100000,100000-120000,12,2012,21,0.174548768,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+6192,CASH IN HAND,60+,61,95000,80000-100000,8,2016,45,0.69968,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+6196,Three Wheeler-Lease-Registered,36-48,37,70000,60000-80000,8,2016,18,0.620414815,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+6206,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,14,2010,26,0.827881879,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+6207,Three Wheeler-Lease-Registered,36-48,37,40000,40000-60000,6,2018,36,0.242926769,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+6208,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,16,2008,37,0.617767742,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,above 15 percentage,between 2- 5 percentage,Red
+6215,CASH IN HAND,60+,61,100000,100000-120000,19,2005,40,0.736147249,Low_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,between 2- 5 percentage,Green
+6218,Three Wheeler-Lease-Registered,48-60,48,100000,100000-120000,11,2013,71,0.63875,Low_risk_sub_purpose_code,below 0,between 50 - 100 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+6219,CASH IN HAND,60+,61,80000,80000-100000,17,2007,34,0.557531429,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+6221,CASH IN HAND,24-36,25,150000,120000+,13,2011,44,0.305068201,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,above 10 percentage,Green
+6228,Three Wheeler-Lease-Registered,48-60,49,130000,120000+,12,2012,35,0.624220377,Low_risk_sub_purpose_code,60-80,less than 50 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+6238,Three Wheeler-Lease-Registered,24-36,25,200000,120000+,12,2012,47,0.790227586,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+6248,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,17,2007,18,0.624482732,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+6275,CASH IN HAND,60+,61,7000,< 40000,10,2014,34,0.670375029,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+6276,CASH IN HAND,24-36,25,60000,60000-80000,6,2018,72,0.312822974,Medium_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+6292,CASH IN HAND,48-60,49,75000,60000-80000,12,2012,27,0.568338916,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+6299,Three Wheeler-Lease-Registered,< 24,19,100000,100000-120000,11,2013,54,0.205845596,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+6321,CASH IN HAND,48-60,49,2000000,120000+,8,2016,32,0.614624339,Low_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+6324,CASH IN HAND,24-36,25,700000,120000+,6,2018,35,0.845558154,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+6354,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,19,2005,44,0.310260935,Low_risk_sub_purpose_code,20-40,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Green
+6367,CASH IN HAND,24-36,25,70000,60000-80000,15,2009,36,0.341767164,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+6370,Three Wheeler-Lease-Registered,36-48,37,90000,80000-100000,12,2012,56,0.368736604,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+6377,Three Wheeler-Lease-Registered,36-48,42,80000,80000-100000,9,2015,48,0.363565217,Low_risk_sub_purpose_code,below 0,between 50 - 100 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+6389,CASH IN HAND,60+,61,60000,60000-80000,13,2011,26,0.508007226,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+6391,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,12,2012,31,0.570801651,Low_risk_sub_purpose_code,0-20,above 200 percentage,between 10 - 15 percentage,less than 2 percentage,Green
+6393,CASH IN HAND,24-36,25,100000,100000-120000,10,2014,44,0.729556126,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+6394,CASH IN HAND,< 24,19,75000,60000-80000,8,2016,50,0.248654737,Low_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+6411,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,13,2011,32,0.68432929,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Red
+6416,CASH IN HAND,36-48,37,60000,60000-80000,19,2005,44,0.626213084,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+6421,CASH IN HAND,24-36,25,100000,100000-120000,14,2010,35,0.37938255,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+6426,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,12,2012,34,0.624195873,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+6428,CASH IN HAND,36-48,37,80000,80000-100000,14,2010,31,0.533222667,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+6431,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,13,2011,20,0.812158968,Medium_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+6444,CASH IN HAND,60+,61,100000,100000-120000,9,2015,24,0.632112174,Low_risk_sub_purpose_code,0-20,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+6458,CASH IN HAND,36-48,37,70000,60000-80000,13,2011,49,0.522497032,Medium_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+6470,CASH IN HAND,48-60,49,75000,60000-80000,8,2016,24,0.577963175,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+6473,CASH IN HAND,60+,61,100000,100000-120000,8,2016,30,0.614004656,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 10 - 15 percentage,between 2- 5 percentage,Green
+6481,CASH IN HAND,60+,61,10000,< 40000,10,2014,60,0.28543815,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,Missing,Green
+6510,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,16,2008,30,0.830967742,Medium_risk_sub_purpose_code,40-60,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+6523,Three Wheeler-Lease-Registered,< 24,19,60000,60000-80000,9,2015,29,0.139985217,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,above 15 percentage,Missing,Green
+6526,CASH IN HAND,60+,61,100000,100000-120000,8,2016,54,0.438032593,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,between 2- 5 percentage,Green
+6530,CASH IN HAND,24-36,25,100000,100000-120000,12,2012,24,0.266694843,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Red
+6541,CASH IN HAND,60+,61,850000,120000+,9,2015,34,0.782888696,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+6573,CASH IN HAND,48-60,49,80000,80000-100000,5,2019,41,0.670757637,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+6582,Three Wheeler-Lease-Registered,36-48,37,60000,60000-80000,19,2005,24,0.627718359,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 10 - 15 percentage,between 5- 10 percentage,Red
+6597,CASH IN HAND,36-48,37,150000,120000+,8,2016,51,0.513102241,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+6613,Three Wheeler-Lease-Registered,60+,60,75000,60000-80000,17,2007,28,0.725781513,Low_risk_sub_purpose_code,below 0,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+6614,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,12,2012,24,0.823014271,Medium_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+6615,CASH IN HAND,60+,61,100000,100000-120000,13,2011,45,0.533790968,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,above 15 percentage,between 5- 10 percentage,Green
+6642,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,16,2008,30,0.441890323,Medium_risk_sub_purpose_code,20-40,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Green
+6655,Three Wheeler-Lease-Registered,60+,61,40000,40000-60000,15,2009,22,0.827375522,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+6657,CASH IN HAND,24-36,25,80000,80000-100000,12,2012,46,0.310277073,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+6665,CASH IN HAND,24-36,25,50000,40000-60000,19,2005,32,0.341193271,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+6666,Three Wheeler-Lease-Registered,24-36,31,50000,40000-60000,13,2011,24,0.453933805,Low_risk_sub_purpose_code,0-20,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Green
+6667,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,11,2013,31,0.773593782,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+6668,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,17,2007,40,0.682205042,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Red
+6673,CASH IN HAND,24-36,25,80000,80000-100000,8,2016,20,0.428947302,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,above 10 percentage,Green
+6685,CASH IN HAND,48-60,49,200000,120000+,17,2007,55,0.62250778,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+6692,Three Wheeler-Lease-Registered,60+,61,75000,60000-80000,12,2012,45,0.622174415,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+6697,Three Wheeler-Lease-Registered,36-48,37,85000,80000-100000,10,2014,38,0.293194866,Low_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+6700,CASH IN HAND,36-48,37,150000,120000+,9,2015,46,0.455195652,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Red
+6717,CASH IN HAND,60+,61,70000,60000-80000,8,2016,53,0.691270476,Low_risk_sub_purpose_code,0-20,less than 50 percentage,less than 1 percentage,above 10 percentage,Red
+6720,Three Wheeler-Lease-Registered,48-60,49,85000,80000-100000,9,2015,39,0.632050435,Low_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+6739,CASH IN HAND,60+,61,60000,60000-80000,13,2011,48,0.665491525,Low_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+6742,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,14,2010,30,0.620265449,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+6761,Three Wheeler-Lease-Registered,36-48,37,90000,80000-100000,16,2008,35,0.337725161,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+6789,CASH IN HAND,60+,61,80000,80000-100000,16,2008,28,0.524674839,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 10 - 15 percentage,between 2- 5 percentage,Green
+6791,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,17,2007,40,0.624482732,Low_risk_sub_purpose_code,40-60,less than 50 percentage,above 15 percentage,between 5- 10 percentage,Red
+6801,CASH IN HAND,60+,61,150000,120000+,12,2012,37,0.773575849,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+6809,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,10,2014,23,0.830695029,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+6811,Three Wheeler-Lease-Registered,36-48,37,70000,60000-80000,8,2016,31,0.627453592,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 10 - 15 percentage,between 2- 5 percentage,Green
+6816,Three Wheeler-Lease-Registered,60+,61,75000,60000-80000,9,2015,31,0.809389565,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+6817,CASH IN HAND,36-48,37,60000,60000-80000,9,2015,37,0.522901739,Medium_risk_sub_purpose_code,60-80,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+6828,CASH IN HAND,48-60,49,100000,100000-120000,13,2011,63,0.695307355,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+6840,Three Wheeler-Lease-Registered,48-60,49,60000,60000-80000,11,2013,21,0.603633161,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+6862,Three Wheeler-Lease-Registered,24-36,25,80000,80000-100000,17,2007,56,0.256695126,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+6864,CASH IN HAND,48-60,49,150000,120000+,14,2010,32,0.57423669,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+6872,CASH IN HAND,36-48,37,200000,120000+,5,2019,50,0.735682281,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+6876,CASH IN HAND,24-36,25,300000,120000+,12,2012,34,0.310277073,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+6883,CASH IN HAND,36-48,37,140000,120000+,9,2015,32,0.393411538,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+6895,CASH IN HAND,60+,61,90000,80000-100000,5,2019,47,0.418092929,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+6906,CASH IN HAND,48-60,49,60000,60000-80000,10,2014,34,0.566275145,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Red
+6919,CASH IN HAND,24-36,25,75000,60000-80000,18,2006,46,0.227167143,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+6960,Three Wheeler-Lease-Registered,36-48,37,135000,120000+,14,2010,34,0.642850767,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+6972,CASH IN HAND,36-48,37,110000,100000-120000,9,2015,77,0.738730702,Low_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+6979,CASH IN HAND,60+,73,100000,100000-120000,9,2015,43,0.605858772,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+6987,CASH IN HAND,36-48,37,70000,60000-80000,19,2005,28,0.439122581,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+6999,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,15,2009,39,0.724169552,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 10 - 15 percentage,between 2- 5 percentage,Green
+7002,Three Wheeler-Lease-Registered,48-60,49,95000,80000-100000,14,2010,56,0.725838389,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+7003,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,15,2009,33,0.824974328,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+7009,Three Wheeler-Lease-Registered,36-48,37,150000,120000+,10,2014,43,0.627444162,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,above 15 percentage,between 2- 5 percentage,Green
+7014,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,12,2012,39,0.651974843,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+7020,CASH IN HAND,48-60,49,60000,60000-80000,10,2014,31,0.519263815,Medium_risk_sub_purpose_code,below 0,between 150 - 200 percentage,above 15 percentage,between 2- 5 percentage,Green
+7021,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,9,2015,38,0.275324561,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+7026,Three Wheeler-Lease-Registered,36-48,37,50000,40000-60000,16,2008,40,0.457145806,Low_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+7070,Three Wheeler-Lease-Registered,24-36,25,50000,40000-60000,17,2007,54,0.547666555,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+7071,Three Wheeler-Lease-Registered,36-48,37,150000,120000+,13,2011,37,0.523069935,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+7074,CASH IN HAND,36-48,37,40000,40000-60000,16,2008,41,0.231274839,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+7099,CASH IN HAND,48-60,49,250000,120000+,5,2019,40,0.64281697,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+7103,CASH IN HAND,24-36,25,150000,120000+,13,2011,29,0.629940645,Medium_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+7118,CASH IN HAND,< 24,19,80000,80000-100000,13,2011,34,0.315221677,Low_risk_sub_purpose_code,Missing,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Green
+7126,CASH IN HAND,36-48,37,100000,100000-120000,11,2013,55,0.433477885,Low_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+7150,Three Wheeler-Lease-Registered,24-36,25,40000,40000-60000,19,2005,18,0.30531027,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+7156,Three Wheeler-Lease-Registered,48-60,49,150000,120000+,8,2016,35,0.564671078,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+7174,CASH IN HAND,48-60,49,75000,60000-80000,14,2010,50,0.665300403,Medium_risk_sub_purpose_code,0-20,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+7178,Three Wheeler-Lease-Registered,48-60,49,250000,120000+,10,2014,39,0.624723237,Low_risk_sub_purpose_code,20-40,between 150 - 200 percentage,less than 1 percentage,between 2- 5 percentage,Green
+7206,Three Wheeler-Lease-Registered,60+,61,75000,60000-80000,9,2015,63,0.837653333,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+7211,Three Wheeler-Lease-Registered,48-60,49,200000,120000+,9,2015,35,0.732397368,Low_risk_sub_purpose_code,40-60,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+7228,CASH IN HAND,< 24,19,100000,100000-120000,12,2012,37,0.364541872,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,between 10 - 15 percentage,above 10 percentage,Red
+7236,Three Wheeler-Lease-Registered,48-60,49,60000,60000-80000,13,2011,19,0.656961053,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+7250,Three Wheeler-Lease-Registered,36-48,37,120000,120000+,16,2008,43,0.627824516,Low_risk_sub_purpose_code,0-20,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+7257,CASH IN HAND,24-36,25,100000,100000-120000,12,2012,25,0.58328033,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+7261,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,8,2016,45,0.358598095,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+7282,CASH IN HAND,48-60,49,100000,100000-120000,13,2011,46,0.749473032,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+7292,CASH IN HAND,< 24,19,125000,120000+,19,2005,35,0.289644023,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+7295,Three Wheeler-Lease-Registered,48-60,49,40000,40000-60000,12,2012,59,0.499213978,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+7300,Three Wheeler-Lease-Registered,60+,61,9000,< 40000,11,2013,35,0.713554286,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+7302,CASH IN HAND,60+,61,50000,40000-60000,19,2005,30,0.603874393,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+7304,Three Wheeler-Lease-Registered,48-60,49,65000,60000-80000,16,2008,36,0.730207742,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,less than 2 percentage,Red
+7308,Three Wheeler-Lease-Registered,24-36,31,85000,80000-100000,9,2015,43,0.680966197,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+7314,CASH IN HAND,24-36,25,70000,60000-80000,12,2012,30,0.517127805,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+7315,Three Wheeler-Lease-Registered,36-48,37,60000,60000-80000,12,2012,37,0.358954286,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+7317,CASH IN HAND,48-60,49,100000,100000-120000,16,2008,44,0.734141176,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+7319,CASH IN HAND,36-48,37,80000,80000-100000,17,2007,44,0.516233049,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+7325,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,13,2011,23,0.777890065,Medium_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+7329,CASH IN HAND,60+,61,70000,60000-80000,11,2013,27,0.586441905,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+7334,CASH IN HAND,36-48,37,80000,80000-100000,13,2011,22,0.485528774,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+7337,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,13,2011,28,0.823048258,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+7342,CASH IN HAND,48-60,49,135000,120000+,14,2010,33,0.623531202,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+7354,CASH IN HAND,48-60,49,210000,120000+,9,2015,46,0.586368075,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+7359,Three Wheeler-Lease-Registered,48-60,49,60000,60000-80000,10,2014,24,0.787936185,Medium_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Red
+7360,CASH IN HAND,60+,60,100000,100000-120000,14,2010,38,0.720644414,Medium_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+7361,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,9,2015,28,0.826873913,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+7362,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,14,2010,26,0.619809103,Low_risk_sub_purpose_code,40-60,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+7369,CASH IN HAND,48-60,49,150000,120000+,9,2015,47,0.812636522,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+7396,CASH IN HAND,60+,61,1000,< 40000,12,2012,47,0.70967122,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+7440,Three Wheeler-Lease-Registered,48-60,49,85000,80000-100000,12,2012,48,0.741265714,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,above 15 percentage,above 10 percentage,Red
+7456,Three Wheeler-Lease-Registered,24-36,31,100000,100000-120000,17,2007,43,0.565848739,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+7457,Three Wheeler-Lease-Registered,48-60,49,90000,80000-100000,17,2007,22,0.797657815,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+7496,CASH IN HAND,60+,61,80000,80000-100000,9,2015,44,0.603394714,Low_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Red
+7502,Three Wheeler-Lease-Registered,60+,61,300000,120000+,14,2010,32,0.706272,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+7504,Three Wheeler-Lease-Registered,60+,61,55000,40000-60000,13,2011,36,0.827376516,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Red
+7507,CASH IN HAND,36-48,37,130000,120000+,8,2016,37,0.443153439,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+7580,Three Wheeler-Lease-Registered,36-48,37,65000,60000-80000,9,2015,22,0.725951304,Medium_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+7582,CASH IN HAND,24-36,25,50000,40000-60000,13,2011,54,0.218641548,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,Missing,Green
+7596,CASH IN HAND,48-60,49,70000,60000-80000,15,2009,26,0.689941022,Low_risk_sub_purpose_code,60-80,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+7603,Three Wheeler-Lease-Registered,36-48,37,80000,80000-100000,14,2010,26,0.623837793,Low_risk_sub_purpose_code,40-60,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+7605,Three Wheeler-Lease-Registered,< 24,19,100000,100000-120000,16,2008,34,0.186736232,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 10 - 15 percentage,less than 2 percentage,Green
+7617,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,10,2014,36,0.575134335,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+7656,Three Wheeler-Lease-Registered,48-60,49,60000,60000-80000,9,2015,41,0.46875873,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+7657,Three Wheeler-Lease-Registered,60+,73,60000,60000-80000,13,2011,38,0.872065556,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+7665,CASH IN HAND,36-48,37,75000,60000-80000,11,2013,30,0.299128571,Low_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Green
+7675,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,17,2007,43,0.639264538,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+7688,Three Wheeler-Lease-Registered,48-60,49,70000,60000-80000,12,2012,21,0.831176585,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,above 15 percentage,between 5- 10 percentage,Red
+7705,Three Wheeler-Lease-Registered,48-60,49,48000,40000-60000,15,2009,20,0.831177313,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+7706,CASH IN HAND,36-48,37,70000,60000-80000,12,2012,28,0.77249561,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+7723,Three Wheeler-Lease-Registered,48-60,49,120000,120000+,17,2007,49,0.830695798,Medium_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Red
+7744,Three Wheeler-Lease-Registered,60+,61,75000,60000-80000,13,2011,52,0.800200258,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Red
+7745,Three Wheeler-Lease-Registered,60+,61,85000,80000-100000,9,2015,40,0.725836522,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+7757,Three Wheeler-Lease-Registered,36-48,37,70000,60000-80000,11,2013,25,0.468634286,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+7776,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,16,2008,22,0.711150327,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+7787,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,12,2012,38,0.831176855,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+7790,CASH IN HAND,36-48,37,120000,120000+,15,2009,60,0.417160133,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+7803,Three Wheeler-Lease-Registered,< 24,18,80000,80000-100000,14,2010,54,0.501166893,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+7853,CASH IN HAND,60+,61,40000,40000-60000,10,2014,33,0.808288555,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+7862,Three Wheeler-Lease-Registered,48-60,49,75000,60000-80000,14,2010,34,0.825610714,Medium_risk_sub_purpose_code,below 0,between 50 - 100 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+7873,CASH IN HAND,36-48,37,100000,100000-120000,10,2014,40,0.604928555,Medium_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+7874,CASH IN HAND,36-48,43,50000,40000-60000,18,2006,48,0.412302857,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+7891,Three Wheeler-Lease-Registered,36-48,37,90000,80000-100000,14,2010,20,0.627303724,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Red
+7906,CASH IN HAND,60+,61,75000,60000-80000,12,2012,53,0.521782266,Low_risk_sub_purpose_code,below 0,between 100 - 150 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+7917,CASH IN HAND,48-60,49,100000,100000-120000,8,2016,44,0.402032017,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+7927,Three Wheeler-Lease-Registered,60+,60,80000,80000-100000,14,2010,23,0.784725244,Low_risk_sub_purpose_code,below 0,between 100 - 150 percentage,between 10 - 15 percentage,less than 2 percentage,Red
+7940,Three Wheeler-Lease-Registered,48-60,49,150000,120000+,9,2015,37,0.64022087,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+7987,Three Wheeler-Lease-Registered,60+,61,65000,60000-80000,17,2007,31,0.691608739,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+8001,CASH IN HAND,48-60,49,5000,< 40000,14,2010,23,0.642781208,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+8016,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,13,2011,31,0.823014194,Medium_risk_sub_purpose_code,0-20,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Red
+8057,CASH IN HAND,24-36,25,600000,120000+,13,2011,42,0.328293161,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Red
+8071,CASH IN HAND,60+,61,60000,60000-80000,18,2006,48,0.612287143,Medium_risk_sub_purpose_code,40-60,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+8072,Three Wheeler-Lease-Registered,60+,61,70000,60000-80000,18,2006,33,0.827375714,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+8094,CASH IN HAND,48-60,49,50000,40000-60000,8,2016,38,0.515439577,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,above 15 percentage,between 2- 5 percentage,Red
+8108,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,10,2014,39,0.642236301,Medium_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+8109,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,9,2015,29,0.827881739,Medium_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+8131,Three Wheeler-Lease-Registered,60+,73,100000,100000-120000,12,2012,25,0.805750769,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,above 15 percentage,between 5- 10 percentage,Red
+8164,Three Wheeler-Lease-Registered,60+,60,100000,100000-120000,10,2014,52,0.610968495,Low_risk_sub_purpose_code,below 0,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+8176,CASH IN HAND,24-36,25,60000,60000-80000,6,2018,47,0.296613744,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+8211,Three Wheeler-Lease-Registered,36-48,37,60000,60000-80000,18,2006,45,0.833961429,Medium_risk_sub_purpose_code,60-80,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Red
+8227,CASH IN HAND,60+,61,100000,100000-120000,14,2010,60,0.589285396,Low_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,less than 1 percentage,less than 2 percentage,Green
+8233,Three Wheeler-Lease-Registered,36-48,37,120000,120000+,9,2015,51,0.491525822,Low_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+8249,CASH IN HAND,48-60,49,100000,100000-120000,13,2011,38,0.515093677,Low_risk_sub_purpose_code,20-40,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Green
+8252,CASH IN HAND,36-48,43,100000,100000-120000,4,2020,42,0.544764694,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+8259,Three Wheeler-Lease-Registered,60+,61,500000,120000+,5,2019,54,0.60945119,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+8279,CASH IN HAND,60+,61,500000,120000+,11,2013,42,0.731863462,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+8290,Three Wheeler-Lease-Registered,36-48,37,80000,80000-100000,19,2005,32,0.811690467,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+8303,CASH IN HAND,48-60,49,65000,60000-80000,14,2010,26,0.614950665,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+8310,CASH IN HAND,36-48,37,270000,120000+,8,2016,44,0.713578836,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+8312,Three Wheeler-Lease-Registered,36-48,37,250000,120000+,9,2015,43,0.722944348,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,between 10 - 15 percentage,between 5- 10 percentage,Green
+8319,CASH IN HAND,24-36,31,120000,120000+,16,2008,42,0.271089032,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 10 - 15 percentage,between 5- 10 percentage,Green
+8335,Three Wheeler-Lease-Registered,60+,61,200000,120000+,10,2014,36,0.621287829,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+8349,CASH IN HAND,48-60,49,150000,120000+,6,2018,34,0.408035282,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+8359,CASH IN HAND,36-48,37,50000,40000-60000,18,2006,43,0.453910145,Low_risk_sub_purpose_code,Missing,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Green
+8360,Three Wheeler-Lease-Registered,24-36,24,80000,80000-100000,6,2018,30,0.239097436,Low_risk_sub_purpose_code,below 0,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+8377,CASH IN HAND,36-48,37,80000,80000-100000,18,2006,30,0.824242276,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+8385,CASH IN HAND,36-48,37,60000,60000-80000,10,2014,46,0.290483237,Low_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+8412,Three Wheeler-Lease-Registered,36-48,37,65000,60000-80000,13,2011,34,0.431117419,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+8439,CASH IN HAND,36-48,37,80000,80000-100000,13,2011,27,0.54036129,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+8445,CASH IN HAND,60+,61,60000,60000-80000,9,2015,32,0.450492174,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+8468,CASH IN HAND,48-60,49,70000,60000-80000,9,2015,47,0.675524348,Medium_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Red
+8507,Three Wheeler-Lease-Registered,48-60,49,114250,100000-120000,10,2014,59,0.620423584,Medium_risk_sub_purpose_code,below 0,between 50 - 100 percentage,between 5 - 10 percentage,above 10 percentage,Green
+8512,CASH IN HAND,24-36,25,80000,80000-100000,14,2010,52,0.568833289,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+8519,CASH IN HAND,48-60,49,80000,80000-100000,18,2006,48,0.841371014,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+8525,CASH IN HAND,36-48,37,100000,100000-120000,18,2006,25,0.675778571,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Green
+8530,Three Wheeler-Lease-Registered,60+,61,120000,120000+,9,2015,19,0.819119403,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+8540,CASH IN HAND,48-60,49,100000,100000-120000,10,2014,39,0.429826838,Low_risk_sub_purpose_code,40-60,less than 50 percentage,between 10 - 15 percentage,above 10 percentage,Green
+8543,Three Wheeler-Lease-Registered,36-48,37,80000,80000-100000,12,2012,35,0.255353171,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+8567,CASH IN HAND,36-48,37,70000,60000-80000,13,2011,71,0.194811995,Medium_risk_sub_purpose_code,40-60,between 150 - 200 percentage,less than 1 percentage,between 2- 5 percentage,Green
+8568,CASH IN HAND,60+,61,60000,60000-80000,13,2011,25,0.74463103,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+8571,Three Wheeler-Lease-Registered,36-48,37,7000,< 40000,11,2013,47,0.692821905,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+8601,Three Wheeler-Lease-Registered,60+,61,1000000,120000+,14,2010,46,0.784175448,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+8603,Three Wheeler-Lease-Registered,24-36,25,80000,80000-100000,11,2013,63,0.746878846,Medium_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+8613,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,13,2011,27,0.807293753,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+8630,CASH IN HAND,36-48,37,150000,120000+,9,2015,49,0.294915493,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+8643,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,12,2012,20,0.830216855,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+8646,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,14,2010,22,0.631077266,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+8656,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,11,2013,19,0.62246,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+8684,CASH IN HAND,48-60,49,100000,100000-120000,13,2011,38,6.830882029,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+8688,CASH IN HAND,36-48,43,80000,80000-100000,13,2011,38,0.678532129,Low_risk_sub_purpose_code,60-80,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+8690,CASH IN HAND,60+,61,100000,100000-120000,5,2019,32,0.673512727,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+8694,Three Wheeler-Lease-Registered,36-48,37,50000,40000-60000,15,2009,52,0.353772308,Medium_risk_sub_purpose_code,20-40,between 150 - 200 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+8699,CASH IN HAND,48-60,49,100000,100000-120000,8,2016,54,0.440291217,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+8719,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,9,2015,44,0.519496522,Low_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,Missing,Green
+8733,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,15,2009,24,0.530680597,Medium_risk_sub_purpose_code,below 0,less than 50 percentage,between 10 - 15 percentage,between 5- 10 percentage,Red
+8741,CASH IN HAND,24-36,25,80000,80000-100000,10,2014,33,0.391982428,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+8758,Three Wheeler-Lease-Registered,48-60,49,65000,60000-80000,19,2005,43,0.62253757,Low_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,between 2- 5 percentage,Red
+8765,Three Wheeler-Lease-Registered,36-48,37,125000,120000+,14,2010,31,0.509929985,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Red
+8773,CASH IN HAND,24-36,25,150000,120000+,9,2015,44,0.64588087,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 10 - 15 percentage,between 5- 10 percentage,Green
+8775,Three Wheeler-Lease-Registered,24-36,25,150000,120000+,8,2016,46,0.628572862,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+8792,Three Wheeler-Lease-Registered,24-36,25,45000,40000-60000,13,2011,18,0.599780481,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+8808,Three Wheeler-Lease-Registered,60+,61,200000,120000+,10,2014,47,0.827375723,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+8811,Three Wheeler-Lease-Registered,36-48,37,200000,120000+,16,2008,45,0.472556129,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+8824,Three Wheeler-Lease-Registered,60+,61,40000,40000-60000,9,2015,27,0.58455913,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+8830,CASH IN HAND,60+,61,70000,60000-80000,13,2011,35,0.772599742,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+8843,CASH IN HAND,36-48,43,10000,< 40000,16,2008,50,0.542843871,Medium_risk_sub_purpose_code,20-40,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+8844,Three Wheeler-Lease-Registered,48-60,49,60000,60000-80000,14,2010,53,0.830695724,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+8851,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,14,2010,21,0.83484349,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+8856,Three Wheeler-Lease-Registered,60+,61,800000,120000+,18,2006,56,0.827881429,Medium_risk_sub_purpose_code,0-20,less than 50 percentage,above 15 percentage,above 10 percentage,Red
+8858,Three Wheeler-Lease-Registered,60+,61,120000,120000+,15,2009,39,0.81552597,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Red
+8887,CASH IN HAND,60+,61,75000,60000-80000,10,2014,31,0.287303584,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Red
+8906,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,14,2010,19,0.458315034,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+8908,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,12,2012,23,0.628592118,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+8919,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,9,2015,61,0.379906087,Low_risk_sub_purpose_code,40-60,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+8923,Three Wheeler-Lease-Registered,48-60,49,125000,120000+,15,2009,29,0.520249927,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,less than 2 percentage,Green
+8924,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,15,2009,58,0.610605373,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+8935,Three Wheeler-Lease-Registered,24-36,25,50000,40000-60000,14,2010,20,0.233956414,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+8950,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,9,2015,31,0.809884348,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Red
+8955,Three Wheeler-Lease-Registered,36-48,37,120000,120000+,15,2009,23,0.562539701,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+8968,Three Wheeler-Lease-Registered,60+,61,7500,< 40000,12,2012,37,0.609646289,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,above 10 percentage,Red
+8971,Three Wheeler-Lease-Registered,36-48,37,75000,60000-80000,9,2015,49,0.404355652,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+8978,Three Wheeler-Lease-Registered,36-48,37,85000,80000-100000,11,2013,32,0.198984762,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,Missing,Green
+8979,Three Wheeler-Lease-Registered,60+,61,88000,80000-100000,10,2014,48,0.827882543,Medium_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+8983,CASH IN HAND,36-48,37,100000,100000-120000,9,2015,55,0.491256338,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+8984,CASH IN HAND,36-48,37,80000,80000-100000,8,2016,51,0.286508552,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+8986,Three Wheeler-Lease-Registered,48-60,49,85000,80000-100000,12,2012,25,0.465040426,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+8989,Three Wheeler-Lease-Registered,36-48,43,75000,60000-80000,17,2007,36,0.445507325,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+8991,Three Wheeler-Lease-Registered,36-48,37,75000,60000-80000,18,2006,30,0.447237143,Low_risk_sub_purpose_code,20-40,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+9007,Three Wheeler-Lease-Registered,24-36,31,80000,80000-100000,12,2012,52,0.381862999,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+9018,CASH IN HAND,48-60,49,80000,80000-100000,14,2010,23,0.826081074,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+9020,Three Wheeler-Lease-Registered,48-60,49,800000,120000+,10,2014,21,0.758233526,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+9056,CASH IN HAND,36-48,37,100000,100000-120000,13,2011,35,0.835737806,High_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+9066,CASH IN HAND,48-60,49,100000,100000-120000,16,2008,44,0.727657971,Low_risk_sub_purpose_code,40-60,less than 50 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+9077,Three Wheeler-Lease-Registered,60+,61,90000,80000-100000,9,2015,24,0.62246,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+9093,CASH IN HAND,60+,61,80000,80000-100000,15,2009,39,0.76657194,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Red
+9103,CASH IN HAND,48-60,49,90000,80000-100000,18,2006,62,0.602321429,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+9106,Three Wheeler-Lease-Registered,48-60,49,180000,120000+,15,2009,43,0.630047138,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+9109,CASH IN HAND,36-48,37,56000,40000-60000,7,2017,42,0.28959638,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,above 15 percentage,between 5- 10 percentage,Green
+9117,CASH IN HAND,36-48,37,60000,60000-80000,15,2009,62,0.634514478,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+9126,Three Wheeler-Lease-Registered,36-48,36,60000,60000-80000,13,2011,34,0.428077419,Low_risk_sub_purpose_code,0-20,between 100 - 150 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+9135,Three Wheeler-Lease-Registered,36-48,37,6000,< 40000,7,2017,40,0.476315,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+9143,CASH IN HAND,60+,61,80000,80000-100000,14,2010,41,0.618167172,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,between 2- 5 percentage,Green
+9147,Three Wheeler-Lease-Registered,60+,61,6000,< 40000,17,2007,31,0.827376134,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,above 10 percentage,Red
+9150,CASH IN HAND,36-48,37,70000,60000-80000,14,2010,31,0.433006795,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+9169,CASH IN HAND,48-60,49,100000,100000-120000,14,2010,27,0.790875314,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+9171,Three Wheeler-Lease-Registered,36-48,37,70000,60000-80000,12,2012,32,0.615646829,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+9172,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,15,2009,36,0.538870588,Low_risk_sub_purpose_code,20-40,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+9207,Three Wheeler-Lease-Registered,48-60,49,75000,60000-80000,14,2010,48,0.540551724,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,between 2- 5 percentage,Red
+9220,Three Wheeler-Lease-Registered,36-48,37,70000,60000-80000,9,2015,44,0.636230435,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+9244,CASH IN HAND,24-36,25,120000,120000+,19,2005,30,0.623709907,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+9246,CASH IN HAND,24-36,25,90000,80000-100000,14,2010,36,0.451571385,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+9254,Three Wheeler-Lease-Registered,24-36,25,80000,80000-100000,14,2010,26,0.665275586,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+9264,CASH IN HAND,36-48,37,75000,60000-80000,11,2013,48,0.628169524,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+9270,CASH IN HAND,36-48,37,60000,60000-80000,14,2010,31,0.446188128,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+9279,Three Wheeler-Lease-Registered,36-48,36,80000,80000-100000,16,2008,32,0.552516129,Medium_risk_sub_purpose_code,below 0,between 50 - 100 percentage,between 10 - 15 percentage,between 5- 10 percentage,Red
+9280,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,11,2013,50,0.711711429,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 10 - 15 percentage,between 2- 5 percentage,Green
+9289,Three Wheeler-Lease-Registered,36-48,37,120000,120000+,13,2011,36,0.835737806,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+9319,CASH IN HAND,60+,61,80000,80000-100000,14,2010,40,0.591550067,High_risk_sub_purpose_code,Missing,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Red
+9337,CASH IN HAND,48-60,49,200000,120000+,10,2014,49,0.746728324,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+9350,CASH IN HAND,60+,61,40000,40000-60000,13,2011,19,0.827376516,Medium_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+9351,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,14,2010,43,0.721241379,Medium_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Red
+9352,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,14,2010,38,0.683352276,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+9353,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,14,2010,21,0.826874483,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+9354,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,18,2006,43,0.830217143,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+9357,Three Wheeler-Lease-Registered,60+,61,70000,60000-80000,16,2008,23,0.550933333,High_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+9358,Three Wheeler-Lease-Registered,36-48,37,120000,120000+,10,2014,51,0.580647399,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+9359,Three Wheeler-Lease-Registered,48-60,49,70000,60000-80000,16,2008,20,0.718456522,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+9378,CASH IN HAND,36-48,37,10000,< 40000,18,2006,30,0.835288571,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Green
+9413,Three Wheeler-Lease-Registered,24-36,31,50000,40000-60000,14,2010,40,0.515998897,Low_risk_sub_purpose_code,20-40,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+9414,Three Wheeler-Lease-Registered,36-48,37,50000,40000-60000,9,2015,44,0.533306957,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+9418,Three Wheeler-Lease-Registered,24-36,25,70000,60000-80000,15,2009,43,0.366531343,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+9421,Three Wheeler-Lease-Registered,48-60,49,90000,80000-100000,13,2011,41,0.609975742,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,Missing,Red
+9436,Three Wheeler-Lease-Registered,48-60,48,150000,120000+,9,2015,46,0.897360526,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+9437,CASH IN HAND,60+,61,70000,60000-80000,15,2009,59,0.769296716,Medium_risk_sub_purpose_code,Above 80,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Green
+9450,Three Wheeler-Lease-Registered,24-36,25,80000,80000-100000,10,2014,41,0.348084544,Low_risk_sub_purpose_code,Missing,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+9459,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,16,2008,24,0.623746377,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+9468,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,17,2007,27,0.626410756,Low_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+9481,Three Wheeler-Lease-Registered,36-48,37,40000,40000-60000,18,2006,27,0.596635714,Medium_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Red
+9484,CASH IN HAND,60+,61,100000,100000-120000,6,2018,39,0.729814271,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+9491,Three Wheeler-Lease-Registered,48-60,49,60000,60000-80000,18,2006,18,0.624482927,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+9501,Three Wheeler-Lease-Registered,24-36,31,120000,120000+,17,2007,20,0.629175126,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+9512,CASH IN HAND,60+,61,60000,60000-80000,13,2011,28,0.595137419,Low_risk_sub_purpose_code,Above 80,between 150 - 200 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+9535,Three Wheeler-Lease-Registered,48-60,49,70000,60000-80000,16,2008,21,0.803612903,Medium_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+9537,Three Wheeler-Lease-Registered,48-60,49,75000,60000-80000,12,2012,25,0.68967122,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+9554,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,13,2011,39,0.561018839,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+9555,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,11,2013,41,0.690326667,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,less than 2 percentage,Green
+9571,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,14,2010,44,0.514174897,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+9592,CASH IN HAND,36-48,37,80000,80000-100000,18,2006,46,0.424956098,Low_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+9603,CASH IN HAND,36-48,37,130000,120000+,12,2012,38,0.522552956,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,above 15 percentage,less than 2 percentage,Red
+9632,CASH IN HAND,24-36,31,700000,120000+,9,2015,27,0.839507826,High_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+9637,Three Wheeler-Lease-Registered,24-36,25,100000,100000-120000,9,2015,53,0.184367826,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+9663,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,13,2011,46,0.729421643,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Red
+9678,CASH IN HAND,60+,61,120000,120000+,9,2015,41,0.781500493,Low_risk_sub_purpose_code,20-40,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+9690,CASH IN HAND,60+,61,78900,60000-80000,10,2014,41,0.51641711,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,less than 2 percentage,Red
+9727,CASH IN HAND,48-60,49,100000,100000-120000,13,2011,55,0.724142452,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 10 - 15 percentage,between 5- 10 percentage,Green
+9744,Three Wheeler-Lease-Registered,60+,73,150000,120000+,11,2013,36,0.584888571,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+9750,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,14,2010,39,0.824908138,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Red
+9773,CASH IN HAND,36-48,37,70000,60000-80000,8,2016,50,0.265892063,Low_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+9774,Three Wheeler-Lease-Registered,< 24,18,50000,40000-60000,16,2008,37,0.310759477,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,above 15 percentage,between 2- 5 percentage,Green
+9776,Three Wheeler-Lease-Registered,24-36,25,75000,60000-80000,9,2015,36,0.547476056,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+9783,CASH IN HAND,24-36,31,80000,80000-100000,15,2009,32,0.376681791,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+9797,Three Wheeler-Lease-Registered,60+,61,65000,60000-80000,11,2013,30,0.744214286,Medium_risk_sub_purpose_code,20-40,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+9806,CASH IN HAND,36-48,37,150000,120000+,17,2007,52,0.741052129,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+9819,Three Wheeler-Lease-Registered,48-60,49,90000,80000-100000,12,2012,48,0.72487044,Low_risk_sub_purpose_code,0-20,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+9824,CASH IN HAND,60+,61,80000,80000-100000,4,2020,27,0.814532935,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,above 10 percentage,Red
+9829,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,10,2014,31,0.755638382,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,above 15 percentage,above 10 percentage,Red
+9831,Three Wheeler-Lease-Registered,36-48,43,100000,100000-120000,12,2012,45,0.328759024,Medium_risk_sub_purpose_code,60-80,between 100 - 150 percentage,between 1 - 5 percentage,less than 2 percentage,Green
+9835,Three Wheeler-Lease-Registered,36-48,37,150000,120000+,15,2009,23,0.62470209,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+9911,CASH IN HAND,36-48,37,50000,40000-60000,18,2006,25,0.523474286,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,Missing,Green
+9923,CASH IN HAND,36-48,37,450000,120000+,12,2012,28,0.408309268,Low_risk_sub_purpose_code,20-40,less than 50 percentage,above 15 percentage,above 10 percentage,Red
+9956,Three Wheeler-Lease-Registered,24-36,25,85000,80000-100000,11,2013,38,0.151444762,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+9969,Three Wheeler-Lease-Registered,60+,60,40000,40000-60000,9,2015,28,0.749565217,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+9981,CASH IN HAND,24-36,25,100000,100000-120000,10,2014,27,0.534087281,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+9991,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,16,2008,28,0.62175942,Low_risk_sub_purpose_code,20-40,between 100 - 150 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+10006,Three Wheeler-Lease-Registered,60+,61,125000,120000+,9,2015,40,0.647511304,Medium_risk_sub_purpose_code,Missing,between 150 - 200 percentage,less than 1 percentage,less than 2 percentage,Green
+10013,CASH IN HAND,48-60,49,80000,80000-100000,9,2015,24,0.808557391,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+10016,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,16,2008,43,0.592633548,Low_risk_sub_purpose_code,60-80,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+10027,Three Wheeler-Lease-Registered,60+,61,90000,80000-100000,9,2015,35,0.726202609,Medium_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+10037,Three Wheeler-Lease-Registered,48-60,49,800000,120000+,14,2010,50,0.459245241,Medium_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+10066,CASH IN HAND,36-48,37,80000,80000-100000,12,2012,22,0.450240394,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10085,Three Wheeler-Lease-Registered,36-48,37,150000,120000+,18,2006,47,0.835288571,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10088,CASH IN HAND,36-48,37,80000,80000-100000,19,2005,30,0.522618318,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+10097,CASH IN HAND,36-48,37,45000,40000-60000,14,2010,23,0.503344552,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+10100,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,13,2011,24,0.779811097,Medium_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+10104,CASH IN HAND,36-48,37,50000,40000-60000,7,2017,40,0.2617375,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+10108,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,9,2015,43,0.317943478,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+10112,CASH IN HAND,< 24,19,100000,100000-120000,11,2013,48,0.536868571,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10124,Three Wheeler-Lease-Registered,60+,61,150000,120000+,12,2012,31,0.728952956,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+10129,CASH IN HAND,36-48,43,87000,80000-100000,9,2015,29,0.625314554,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10131,Three Wheeler-Lease-Registered,36-48,36,50000,40000-60000,14,2010,41,0.601283124,Low_risk_sub_purpose_code,below 0,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Red
+10148,Three Wheeler-Lease-Registered,36-48,37,70000,60000-80000,11,2013,22,0.608227619,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+10161,Three Wheeler-Lease-Registered,36-48,37,200000,120000+,12,2012,39,0.445510638,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10163,Three Wheeler-Lease-Registered,60+,61,170000,120000+,14,2010,21,0.51513931,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+10164,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,13,2011,25,0.623139097,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+10192,CASH IN HAND,36-48,37,80000,80000-100000,16,2008,32,0.341952941,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Red
+10197,Three Wheeler-Lease-Registered,< 24,19,150000,120000+,9,2015,21,0.644242609,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+10212,CASH IN HAND,60+,61,90000,80000-100000,8,2016,46,0.828391958,Medium_risk_sub_purpose_code,Above 80,Missing,Missing,Missing,Red
+10217,Three Wheeler-Lease-Registered,60+,61,75000,60000-80000,9,2015,24,0.690027826,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+10245,Three Wheeler-Lease-Registered,36-48,37,80000,80000-100000,19,2005,47,0.582706542,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+10249,Three Wheeler-Lease-Registered,48-60,49,70000,60000-80000,13,2011,45,0.748829935,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10254,CASH IN HAND,24-36,25,70000,60000-80000,9,2015,40,0.184090435,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+10257,CASH IN HAND,36-48,37,85000,80000-100000,14,2010,36,0.463789121,Low_risk_sub_purpose_code,60-80,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+10274,CASH IN HAND,60+,61,70000,60000-80000,8,2016,37,0.826874074,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+10285,Three Wheeler-Lease-Registered,24-36,25,150000,120000+,9,2015,40,0.577338028,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10296,CASH IN HAND,36-48,37,250000,120000+,13,2011,57,0.431424,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10300,Three Wheeler-Lease-Registered,24-36,25,40000,40000-60000,15,2009,48,0.246877664,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+10308,Three Wheeler-Lease-Registered,< 24,19,80000,80000-100000,13,2011,23,0.557154173,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+10311,Three Wheeler-Lease-Registered,24-36,25,65000,60000-80000,17,2007,24,0.714066176,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+10317,Three Wheeler-Lease-Registered,60+,61,70000,60000-80000,11,2013,49,0.622068394,Low_risk_sub_purpose_code,0-20,between 150 - 200 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10318,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,13,2011,18,0.622165771,Low_risk_sub_purpose_code,Missing,above 200 percentage,above 15 percentage,less than 2 percentage,Red
+10319,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,13,2011,38,0.624187836,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+10324,CASH IN HAND,24-36,25,100000,100000-120000,12,2012,38,0.846394146,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+10330,Three Wheeler-Lease-Registered,48-60,49,75000,60000-80000,13,2011,35,0.623139097,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+10343,Three Wheeler-Lease-Registered,24-36,25,60000,60000-80000,17,2007,37,0.359903193,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,between 10 - 15 percentage,above 10 percentage,Green
+10344,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,7,2017,29,0.571856502,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10354,Three Wheeler-Lease-Registered,36-48,37,60000,60000-80000,15,2009,38,0.835288759,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+10390,CASH IN HAND,36-48,37,140000,120000+,6,2018,58,0.523153231,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,Missing,Green
+10408,Three Wheeler-Lease-Registered,60+,61,70000,60000-80000,13,2011,39,0.823048258,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,above 10 percentage,Red
+10411,CASH IN HAND,60+,61,130000,120000+,8,2016,60,0.61435439,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10430,CASH IN HAND,36-48,37,100000,100000-120000,8,2016,66,0.531784127,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+10439,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,17,2007,22,0.828392605,Medium_risk_sub_purpose_code,20-40,between 100 - 150 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+10440,CASH IN HAND,36-48,37,70000,60000-80000,11,2013,44,0.325806667,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 10 - 15 percentage,between 5- 10 percentage,Red
+10442,Three Wheeler-Lease-Registered,36-48,37,50000,40000-60000,10,2014,57,0.55310566,Medium_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+10445,CASH IN HAND,60+,61,80000,80000-100000,8,2016,45,0.687023033,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10455,Three Wheeler-Lease-Registered,36-48,37,70000,60000-80000,19,2005,22,0.83528972,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+10456,CASH IN HAND,24-36,25,70000,60000-80000,18,2006,29,0.530055714,Medium_risk_sub_purpose_code,40-60,between 50 - 100 percentage,less than 1 percentage,above 10 percentage,Green
+10478,Three Wheeler-Lease-Registered,60+,61,110000,100000-120000,14,2010,26,0.75746484,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10479,CASH IN HAND,24-36,25,100000,100000-120000,10,2014,51,0.634630866,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,above 15 percentage,between 5- 10 percentage,Red
+10504,Three Wheeler-Lease-Registered,60+,61,1200000,120000+,14,2010,39,0.572376276,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,Missing,Green
+10510,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,18,2006,29,0.741265714,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Red
+10511,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,8,2016,39,0.474430103,Low_risk_sub_purpose_code,20-40,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+10533,Three Wheeler-Lease-Registered,36-48,37,80000,80000-100000,13,2011,28,0.78093239,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+10534,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,12,2012,34,0.779506918,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+10545,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,9,2015,26,0.828392174,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+10546,Three Wheeler-Lease-Registered,36-48,37,200000,120000+,13,2011,43,0.737742894,Low_risk_sub_purpose_code,20-40,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10551,Three Wheeler-Lease-Registered,48-60,49,200000,120000+,11,2013,39,0.790682857,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+10556,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,13,2011,41,0.825882839,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 10 - 15 percentage,between 2- 5 percentage,Red
+10559,CASH IN HAND,36-48,37,70000,60000-80000,9,2015,48,0.627653043,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+10578,Three Wheeler-Lease-Registered,24-36,24,60000,60000-80000,12,2012,35,0.276682927,Medium_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+10584,Three Wheeler-Lease-Registered,36-48,37,200000,120000+,10,2014,31,0.52544542,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,above 15 percentage,between 2- 5 percentage,Green
+10594,Three Wheeler-Lease-Registered,48-60,49,60000,60000-80000,18,2006,52,0.624482857,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+10595,Three Wheeler-Lease-Registered,< 24,19,85000,80000-100000,8,2016,30,0.636288677,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,less than 2 percentage,Red
+10622,Three Wheeler-Lease-Registered,60+,61,200000,120000+,12,2012,30,0.622198742,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,above 10 percentage,Green
+10623,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,12,2012,36,0.628169756,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+10644,CASH IN HAND,36-48,37,1000000,120000+,13,2011,80,0.626819097,Low_risk_sub_purpose_code,20-40,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10646,CASH IN HAND,60+,61,100000,100000-120000,10,2014,48,0.575685549,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10650,CASH IN HAND,60+,61,8000,< 40000,11,2013,43,8.276285714,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 10 - 15 percentage,between 5- 10 percentage,Red
+10660,Three Wheeler-Lease-Registered,60+,61,95000,80000-100000,12,2012,66,0.658889057,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10671,CASH IN HAND,48-60,48,60000,60000-80000,12,2012,33,0.72704,Medium_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+10677,CASH IN HAND,60+,61,80000,80000-100000,8,2016,25,0.617251217,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+10682,CASH IN HAND,36-48,43,100000,100000-120000,10,2014,37,0.482486936,Medium_risk_sub_purpose_code,0-20,less than 50 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+10684,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,17,2007,63,0.622110924,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 10 - 15 percentage,between 5- 10 percentage,Green
+10686,Three Wheeler-Lease-Registered,36-48,37,200000,120000+,6,2018,31,0.841227141,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+10693,CASH IN HAND,60+,61,60000,60000-80000,9,2015,55,0.450400877,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10719,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,19,2005,45,0.624035974,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+10721,Three Wheeler-Lease-Registered,48-60,49,80000,80000-100000,15,2009,39,0.520255766,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+10723,CASH IN HAND,36-48,37,85000,80000-100000,9,2015,30,0.723258261,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+10726,Three Wheeler-Lease-Registered,24-36,25,200000,120000+,7,2017,34,0.6360675,Low_risk_sub_purpose_code,20-40,less than 50 percentage,between 10 - 15 percentage,between 5- 10 percentage,Green
+10727,CASH IN HAND,36-48,37,80000,80000-100000,12,2012,34,0.59908867,Low_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+10735,Three Wheeler-Lease-Registered,36-48,37,60000,60000-80000,13,2011,48,0.600743226,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+10748,Three Wheeler-Lease-Registered,< 24,19,50000,40000-60000,8,2016,20,0.244865678,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+10750,Three Wheeler-Lease-Registered,24-36,25,70000,60000-80000,12,2012,38,0.233312792,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Red
+10767,CASH IN HAND,36-48,37,50000,40000-60000,13,2011,54,0.304655484,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,above 10 percentage,Red
+10768,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,9,2015,40,0.737443478,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+10779,CASH IN HAND,48-60,49,65000,60000-80000,13,2011,37,0.603828645,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+10805,CASH IN HAND,48-60,49,80000,80000-100000,12,2012,28,0.411650732,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10810,CASH IN HAND,60+,61,120000,120000+,12,2012,42,0.722600252,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,less than 2 percentage,Red
+10813,CASH IN HAND,36-48,43,90000,80000-100000,9,2015,32,0.675446957,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10815,Three Wheeler-Lease-Registered,24-36,25,150000,120000+,13,2011,21,0.599780481,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+10825,Three Wheeler-Lease-Registered,36-48,37,150000,120000+,11,2013,41,0.627824762,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10827,Three Wheeler-Lease-Registered,48-60,49,180000,120000+,12,2012,37,0.624482013,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+10828,Three Wheeler-Lease-Registered,48-60,49,90000,80000-100000,13,2011,20,0.515701677,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+10830,Three Wheeler-Lease-Registered,24-36,25,100000,100000-120000,13,2011,21,0.239912871,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+10852,CASH IN HAND,36-48,37,60000,60000-80000,17,2007,49,0.42229916,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+10854,Three Wheeler-Lease-Registered,36-48,37,85000,80000-100000,14,2010,48,0.523474444,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 10 - 15 percentage,between 5- 10 percentage,Red
+10872,CASH IN HAND,36-48,37,80000,80000-100000,14,2010,41,0.531214505,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+10911,CASH IN HAND,48-60,49,80000,80000-100000,10,2014,48,0.511567168,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+10920,CASH IN HAND,24-36,25,100000,100000-120000,10,2014,36,0.302810735,Low_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+10940,Three Wheeler-Lease-Registered,36-48,37,60000,60000-80000,9,2015,25,0.623935652,Low_risk_sub_purpose_code,0-20,between 50 - 100 percentage,between 10 - 15 percentage,between 5- 10 percentage,Red
+10941,CASH IN HAND,48-60,49,80000,80000-100000,9,2015,52,0.519788696,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+10953,Three Wheeler-Lease-Registered,36-48,37,80000,80000-100000,11,2013,27,0.477294286,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+10964,Three Wheeler-Lease-Registered,36-48,37,50000,40000-60000,14,2010,51,0.737977127,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,less than 2 percentage,Green
+10975,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,14,2010,26,0.817272483,Medium_risk_sub_purpose_code,0-20,Missing,Missing,Missing,Green
+10977,Three Wheeler-Lease-Registered,24-36,24,85000,80000-100000,12,2012,34,0.794497937,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+11007,Three Wheeler-Lease-Registered,48-60,49,70000,60000-80000,13,2011,32,0.623139097,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+11010,CASH IN HAND,36-48,43,100000,100000-120000,12,2012,46,0.472472956,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+11023,Three Wheeler-Lease-Registered,36-48,37,80000,80000-100000,12,2012,57,0.627773659,Medium_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+11029,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,15,2009,36,0.835737313,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+11040,Three Wheeler-Lease-Registered,36-48,37,75000,60000-80000,19,2005,38,0.468136075,High_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+11047,CASH IN HAND,48-60,49,80000,80000-100000,8,2016,43,0.412004233,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+11049,CASH IN HAND,24-36,25,80000,80000-100000,12,2012,32,0.480051321,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Red
+11051,CASH IN HAND,48-60,49,120000,120000+,7,2017,62,0.742068333,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+11052,CASH IN HAND,60+,61,70000,60000-80000,10,2014,24,0.720621503,Medium_risk_sub_purpose_code,Above 80,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+11053,CASH IN HAND,24-36,25,80000,80000-100000,13,2011,29,0.592724645,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 5 - 10 percentage,above 10 percentage,Red
+11056,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,15,2009,28,0.677561791,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+11058,CASH IN HAND,60+,61,100000,100000-120000,12,2012,33,0.728065409,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,above 15 percentage,between 5- 10 percentage,Red
+11066,CASH IN HAND,24-36,25,100000,100000-120000,11,2013,40,0.403852381,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+11070,CASH IN HAND,60+,61,140000,120000+,9,2015,43,0.779101739,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+11109,Three Wheeler-Lease-Registered,60+,61,200000,120000+,9,2015,35,0.629910435,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Green
+11110,Three Wheeler-Lease-Registered,36-48,37,90021,80000-100000,10,2014,35,0.414675379,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,Missing,Green
+11121,CASH IN HAND,48-60,49,80000,80000-100000,19,2005,45,0.587168121,Low_risk_sub_purpose_code,60-80,between 150 - 200 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+11122,Three Wheeler-Lease-Registered,48-60,49,65000,60000-80000,18,2006,29,0.740841429,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+11128,CASH IN HAND,36-48,37,120000,120000+,17,2007,30,0.520834958,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+11134,Three Wheeler-Lease-Registered,36-48,37,150000,120000+,8,2016,40,0.668519954,Low_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+11136,Three Wheeler-Lease-Registered,24-36,31,100000,100000-120000,12,2012,35,0.656054187,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+11143,Three Wheeler-Lease-Registered,36-48,36,45000,40000-60000,14,2010,55,0.689181208,Medium_risk_sub_purpose_code,20-40,between 50 - 100 percentage,above 15 percentage,between 2- 5 percentage,Green
+11154,CASH IN HAND,60+,61,80000,80000-100000,14,2010,22,0.827391141,High_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 1 - 5 percentage,less than 2 percentage,Red
+11156,CASH IN HAND,36-48,37,60000,60000-80000,8,2016,57,0.088390265,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,between 2- 5 percentage,Green
+11160,CASH IN HAND,36-48,37,70000,60000-80000,12,2012,46,0.511596478,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+11174,CASH IN HAND,< 24,19,200000,120000+,10,2014,50,0.608036036,Low_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+11224,CASH IN HAND,24-36,25,60000,60000-80000,12,2012,22,0.261968473,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+11227,Three Wheeler-Lease-Registered,< 24,19,50000,40000-60000,18,2006,44,0.228684286,Medium_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 10 - 15 percentage,between 5- 10 percentage,Green
+11240,CASH IN HAND,36-48,37,80000,80000-100000,14,2010,69,0.514394483,Medium_risk_sub_purpose_code,0-20,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+11273,CASH IN HAND,36-48,37,100000,100000-120000,13,2011,50,0.807535484,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+11275,Three Wheeler-Lease-Registered,24-36,25,150000,120000+,11,2013,35,0.635427979,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+11290,CASH IN HAND,48-60,49,50000,40000-60000,10,2014,51,0.420847168,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+11292,Three Wheeler-Lease-Registered,36-48,43,110000,100000-120000,12,2012,35,0.508357073,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+11306,Three Wheeler-Lease-Registered,48-60,49,60000,60000-80000,12,2012,59,0.54822439,Medium_risk_sub_purpose_code,Missing,between 150 - 200 percentage,less than 1 percentage,between 2- 5 percentage,Green
+11307,Three Wheeler-Lease-Registered,24-36,25,80000,80000-100000,10,2014,29,0.309037688,Low_risk_sub_purpose_code,0-20,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+11317,Three Wheeler-Lease-Registered,< 24,13,80000,80000-100000,12,2012,54,0.123362013,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Green
+11319,Three Wheeler-Lease-Registered,48-60,49,7500,< 40000,13,2011,54,0.696311742,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Red
+11328,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,9,2015,48,0.636230435,High_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,Missing,Green
+11333,CASH IN HAND,24-36,25,130000,120000+,13,2011,68,0.28475871,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+11366,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,13,2011,42,0.828392258,High_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+11368,Three Wheeler-Lease-Registered,36-48,37,150000,120000+,16,2008,28,0.621415484,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+11369,CASH IN HAND,60+,61,50000,40000-60000,14,2010,70,0.399404138,Medium_risk_sub_purpose_code,0-20,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+11376,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,10,2014,31,0.608955893,High_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+11380,Three Wheeler-Lease-Registered,36-48,37,70000,60000-80000,19,2005,20,0.520958505,High_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+11383,Three Wheeler-Lease-Registered,60+,61,50000,40000-60000,13,2011,47,0.800686452,High_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+11401,CASH IN HAND,60+,61,100000,100000-120000,15,2009,36,0.726003582,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+11407,CASH IN HAND,36-48,37,80000,80000-100000,13,2011,50,0.223627355,Low_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+11417,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,18,2006,42,0.62246,Low_risk_sub_purpose_code,20-40,between 150 - 200 percentage,between 10 - 15 percentage,less than 2 percentage,Red
+11459,CASH IN HAND,24-36,31,50000,40000-60000,12,2012,40,0.318613659,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+11464,CASH IN HAND,48-60,49,80000,80000-100000,9,2015,45,0.514886957,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+11476,Three Wheeler-Lease-Registered,48-60,49,70000,60000-80000,12,2012,37,0.692245714,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,between 5 - 10 percentage,between 5- 10 percentage,Red
+11493,Three Wheeler-Lease-Registered,48-60,49,50000,40000-60000,13,2011,37,0.825335742,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Red
+11495,Three Wheeler-Lease-Registered,48-60,49,125000,120000+,15,2009,24,0.622039867,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+11509,CASH IN HAND,60+,61,80000,80000-100000,10,2014,31,0.710762543,Medium_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+11516,Three Wheeler-Lease-Registered,60+,61,350000,120000+,15,2009,22,0.621550949,Low_risk_sub_purpose_code,Missing,between 150 - 200 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+11548,Three Wheeler-Lease-Registered,60+,61,75000,60000-80000,12,2012,30,0.312028176,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,above 10 percentage,Red
+11549,CASH IN HAND,< 24,13,100000,100000-120000,7,2017,29,0.275365833,Low_risk_sub_purpose_code,Above 80,less than 50 percentage,less than 1 percentage,between 5- 10 percentage,Green
+11551,Three Wheeler-Lease-Registered,60+,73,45000,40000-60000,18,2006,32,0.805326667,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Red
+11554,CASH IN HAND,48-60,49,200000,120000+,13,2011,37,0.642748903,Medium_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+11558,Three Wheeler-Lease-Registered,48-60,49,100000,100000-120000,16,2008,40,0.603980645,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+11569,Three Wheeler-Lease-Registered,60+,61,100000,100000-120000,14,2010,29,0.827628138,Medium_risk_sub_purpose_code,40-60,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+11577,Three Wheeler-Lease-Registered,60+,61,70000,60000-80000,18,2006,50,0.370511429,Medium_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 2- 5 percentage,Green
+11578,Three Wheeler-Lease-Registered,36-48,37,700000,120000+,14,2010,49,0.506117517,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+11588,CASH IN HAND,24-36,31,100000,100000-120000,18,2006,40,0.434284286,Low_risk_sub_purpose_code,40-60,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+11592,CASH IN HAND,60+,61,90000,80000-100000,14,2010,37,0.72919403,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+11630,Three Wheeler-Lease-Registered,36-48,37,120000,120000+,10,2014,28,0.600332023,Low_risk_sub_purpose_code,20-40,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+11634,CASH IN HAND,60+,61,100000,100000-120000,9,2015,41,0.779631579,Low_risk_sub_purpose_code,40-60,between 50 - 100 percentage,between 5 - 10 percentage,between 2- 5 percentage,Green
+11642,CASH IN HAND,60+,61,45000,40000-60000,10,2014,37,0.567465434,Low_risk_sub_purpose_code,Above 80,between 50 - 100 percentage,less than 1 percentage,between 5- 10 percentage,Green
+11648,Three Wheeler-Lease-Registered,36-48,36,100000,100000-120000,14,2010,26,0.400379919,Low_risk_sub_purpose_code,below 0,between 50 - 100 percentage,between 5 - 10 percentage,between 5- 10 percentage,Green
+11668,Three Wheeler-Lease-Registered,60+,61,500000,120000+,11,2013,35,0.792238095,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+11711,Three Wheeler-Lease-Registered,24-36,25,60000,60000-80000,13,2011,49,0.340708538,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,above 15 percentage,between 5- 10 percentage,Green
+11716,CASH IN HAND,24-36,31,75000,60000-80000,13,2011,61,0.379922581,Medium_risk_sub_purpose_code,40-60,less than 50 percentage,less than 1 percentage,Missing,Green
+11725,CASH IN HAND,48-60,49,5000,< 40000,12,2012,28,0.83069561,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+11747,Three Wheeler-Lease-Registered,36-48,37,80000,80000-100000,10,2014,37,0.656643699,Medium_risk_sub_purpose_code,Missing,less than 50 percentage,less than 1 percentage,Missing,Green
+11752,Three Wheeler-Lease-Registered,60+,61,60000,60000-80000,13,2011,38,0.827376516,Low_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+11759,CASH IN HAND,36-48,43,50000,40000-60000,10,2014,28,0.716823121,Medium_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Green
+11760,CASH IN HAND,48-60,49,75000,60000-80000,12,2012,57,0.568951064,Low_risk_sub_purpose_code,Missing,between 50 - 100 percentage,between 1 - 5 percentage,between 5- 10 percentage,Red
+11781,Three Wheeler-Lease-Registered,36-48,37,120000,120000+,11,2013,40,0.650595855,Low_risk_sub_purpose_code,Missing,between 100 - 150 percentage,less than 1 percentage,between 2- 5 percentage,Green
+11786,CASH IN HAND,60+,61,65000,60000-80000,10,2014,26,0.479136185,Medium_risk_sub_purpose_code,20-40,less than 50 percentage,less than 1 percentage,Missing,Green
+11808,CASH IN HAND,60+,61,150000,120000+,9,2015,62,0.790064348,Medium_risk_sub_purpose_code,Missing,between 100 - 150 percentage,between 5 - 10 percentage,between 2- 5 percentage,Red
+11825,Three Wheeler-Lease-Registered,60+,61,10000,< 40000,14,2010,22,0.799826759,Medium_risk_sub_purpose_code,Missing,Missing,Missing,Missing,Green
+11847,CASH IN HAND,< 24,19,70000,60000-80000,10,2014,38,0.205464971,Low_risk_sub_purpose_code,60-80,less than 50 percentage,between 5 - 10 percentage,above 10 percentage,Green
+11850,Three Wheeler-Lease-Registered,60+,61,80000,80000-100000,12,2012,36,0.507873208,Low_risk_sub_purpose_code,20-40,Missing,Missing,Missing,Red
+11864,CASH IN HAND,36-48,37,60000,60000-80000,9,2015,54,0.409451304,Medium_risk_sub_purpose_code,0-20,less than 50 percentage,above 15 percentage,between 5- 10 percentage,Green
+11869,Three Wheeler-Lease-Registered,48-60,48,90000,80000-100000,11,2013,24,0.774857143,Medium_risk_sub_purpose_code,0-20,between 50 - 100 percentage,above 15 percentage,between 2- 5 percentage,Red
+11887,Three Wheeler-Lease-Registered,24-36,25,120000,120000+,5,2019,25,0.63909002,Low_risk_sub_purpose_code,40-60,less than 50 percentage,between 1 - 5 percentage,above 10 percentage,Green
+11894,CASH IN HAND,48-60,49,100000,100000-120000,10,2014,30,0.278319538,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,less than 1 percentage,less than 2 percentage,Red
+11908,CASH IN HAND,48-60,49,150000,120000+,19,2005,46,0.51981757,Low_risk_sub_purpose_code,60-80,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+11910,CASH IN HAND,36-48,37,150000,120000+,12,2012,38,0.72159122,Low_risk_sub_purpose_code,20-40,between 50 - 100 percentage,between 1 - 5 percentage,between 2- 5 percentage,Red
+11919,Three Wheeler-Lease-Registered,36-48,37,100000,100000-120000,5,2019,34,0.589980606,Medium_risk_sub_purpose_code,20-40,between 100 - 150 percentage,between 1 - 5 percentage,less than 2 percentage,Green
+11948,Three Wheeler-Lease-Registered,60+,61,75000,60000-80000,9,2015,24,0.827375652,Medium_risk_sub_purpose_code,60-80,between 100 - 150 percentage,between 1 - 5 percentage,between 2- 5 percentage,Green
+11967,Three Wheeler-Lease-Registered,60+,72,800000,120000+,12,2012,35,0.799623706,Medium_risk_sub_purpose_code,60-80,less than 50 percentage,less than 1 percentage,above 10 percentage,Green
+11969,Three Wheeler-Lease-Registered,60+,61,90000,80000-100000,10,2014,25,0.622067977,Low_risk_sub_purpose_code,20-40,between 100 - 150 percentage,between 5 - 10 percentage,less than 2 percentage,Red

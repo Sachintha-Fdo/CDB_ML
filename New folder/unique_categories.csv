@@ -1,0 +1,8 @@
+PRODUCT_NAME,Sub_purpose_code_based_on_risk,CRIB_SCORE,TOTAL INCOME,Percentage_of_Total_Installments_to_Total_Current_Balance_slabs,Percentage_of_Total_Current_Balance_to_Total_Amount_Granted_Limit_slabs,Percentage_of_Total_Arrears_Amount_to_Total_Amount_Granted_Limit_slabs
+CASH IN HAND,Medium_risk_sub_purpose_code,Missing,80000-100000,Missing,Missing,Missing
+Three Wheeler-Lease-Registered,Low_risk_sub_purpose_code,Above 80,60000-80000,above 10 percentage,less than 50 percentage,less than 1 percentage
+,High_risk_sub_purpose_code,below 0,100000-120000,less than 2 percentage,between 50 - 100 percentage,between 5 - 10 percentage
+,,60-80,120000+,between 5- 10 percentage,between 100 - 150 percentage,above 15 percentage
+,,20-40,40000-60000,between 2- 5 percentage,between 150 - 200 percentage,between 1 - 5 percentage
+,,40-60,< 40000,,above 200 percentage,between 10 - 15 percentage
+,,0-20,,,,
